@@ -1,0 +1,520 @@
+[2017-04-09 05:01:50] ! new follower
+[2017-04-09 05:01:52] < Hai
+[2017-04-09 05:02:03] : Juga
+[2017-04-09 05:02:04] < Saya ngga tau harus jawab apa
+[2017-04-09 05:02:10] : Wkwk
+[2017-04-09 05:02:10] < Masih ngga ngerti
+[2017-04-09 05:02:17] : :v
+[2017-04-09 05:02:18] < ?
+[2017-04-09 05:02:23] : .
+[2017-04-09 05:02:24] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 05:03:13] : Rumus" matematika tentang aljabar
+[2017-04-09 05:03:13] < Maaf belum bisa ngasih rumus buat yg ini
+[2017-04-09 05:03:19] : Knp?
+[2017-04-09 05:03:20] < ?
+[2017-04-09 05:03:52] : Minta soal
+[2017-04-09 05:03:52] < ★ Jika suku ke-2 adalah 4 dan suku ke-6 adalah 16, maka suku-4 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 05:04:11] : Belum belajar :v
+[2017-04-09 05:04:11] < Maaf, saya ngga ngerti
+[2017-04-09 05:04:20] : Saya juga ngga ngerti
+[2017-04-09 05:04:20] < Ayo coba lagi
+[2017-04-09 05:04:37] : 35?
+[2017-04-09 05:04:38] < Bukan
+[2017-04-09 05:04:57] : 24
+[2017-04-09 05:04:58] < Masih belum betul
+[2017-04-09 05:05:52] : 8
+[2017-04-09 05:05:53] < Masih belum betul
+[2017-04-09 05:05:57] : 12
+[2017-04-09 05:05:57] < Bukan
+[2017-04-09 05:06:01] : 14
+[2017-04-09 05:06:02] < Bukan, coba lagi
+[2017-04-09 05:06:06] : 16
+[2017-04-09 05:06:06] < Masih belum betul
+[2017-04-09 05:06:07] < Kamu bisa minta "ganti soal" kalau yang ini susah
+[2017-04-09 05:06:13] : Ganti soal
+[2017-04-09 05:06:13] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=42388} Keliling daerah yang diwarnai adalah aπ. Berapakah a?
+[2017-04-09 05:07:21] : 314
+[2017-04-09 05:07:25] < Masih belum betul
+[2017-04-09 05:07:38] : Rumus
+[2017-04-09 05:07:39] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 05:08:18] : 31.4
+[2017-04-09 05:08:19] < Coba lagi
+[2017-04-09 05:11:13] : 314
+[2017-04-09 05:11:13] < Masih belum betul
+[2017-04-09 05:11:18] : 3.14
+[2017-04-09 05:11:18] < Coba lagi
+[2017-04-09 05:11:26] : Ganti soal
+[2017-04-09 05:11:27] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 700 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-04-09 05:12:39] : 140
+[2017-04-09 05:12:39] < Bukan itu
+[2017-04-09 05:12:53] : Rumus
+[2017-04-09 05:12:53] < Rumusnya hargaJual = hargaBeli + (hargaBeli x untungPersen / 100)
+[2017-04-09 05:13:18] : 840
+[2017-04-09 05:13:19] < Betul! (smile)
+[2017-04-09 05:13:19] < Nama kamu siapa?
+[2017-04-09 05:13:23] : Shofia
+[2017-04-09 05:13:23] < Ooh, Shofia
+[2017-04-09 05:13:24] < Mau latihan soal matematika?
+[2017-04-09 05:13:28] : Yap
+[2017-04-09 05:13:28] < :)
+[2017-04-09 05:13:48] : Minta soal
+[2017-04-09 05:13:49] < ★ 4 siswa senang fisika dan juga biologi, sedangkan 2 siswa tidak senang keduanya. Siswa yang hanya senang fisika saja ada 4, dan siswa yang senang biologi saja ada 4 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 05:14:18] : 6 siswa
+[2017-04-09 05:14:18] < Bukan itu
+[2017-04-09 05:14:47] : 14
+[2017-04-09 05:14:47] < Betul! (smile)
+[2017-04-09 05:14:48] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:14:49] < Siap lagi...
+[2017-04-09 05:14:52] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 05:14:55] : Skor
+[2017-04-09 05:14:55] < 2
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 05:15:13] : Rumus
+[2017-04-09 05:15:13] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 05:15:51] : Ganti soal
+[2017-04-09 05:15:52] < ★ Gradien persamaan garis yang melalui titik (0, -2) dan (-3, 0) adalah ...
+[2017-04-09 05:16:00] : Rumus
+[2017-04-09 05:16:00] < Rumus persamaan garis adalah y-y1 = m(x-x1) dimana gradien m = (y2-y1) / (x2-x1)
+[2017-04-09 05:16:11] : Ganti
+[2017-04-09 05:16:12] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-09 05:23:00] : 24 hri
+[2017-04-09 05:23:00] < Coba lagi
+[2017-04-09 05:23:31] : 28
+[2017-04-09 05:23:32] < Coba lagi
+[2017-04-09 05:23:38] : Rumus
+[2017-04-09 05:23:38] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 05:24:42] : Ganti
+[2017-04-09 05:24:43] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=ad106} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 05:25:10] : 113.04
+[2017-04-09 05:25:11] < Jawabannya dalam bentuk desimal, contoh: 7,96
+[2017-04-09 05:25:11] < Coba lagi
+[2017-04-09 05:26:01] : 14
+[2017-04-09 05:26:02] < Jawabannya dalam bentuk desimal, contoh: 7,74
+[2017-04-09 05:26:02] < Coba lagi
+[2017-04-09 05:26:09] : 7.14
+[2017-04-09 05:26:10] < Jawabannya dalam bentuk desimal, contoh: 6,25
+[2017-04-09 05:26:10] < Coba lagi
+[2017-04-09 05:26:20] : 6.25
+[2017-04-09 05:26:20] < Jawabannya dalam bentuk desimal, contoh: 3,69
+[2017-04-09 05:26:20] < Coba lagi
+[2017-04-09 05:26:27] : 3.68
+[2017-04-09 05:26:27] < Jawabannya dalam bentuk desimal, contoh: 4,42
+[2017-04-09 05:26:28] < Coba lagi
+[2017-04-09 05:26:35] : 4.43
+[2017-04-09 05:26:36] < Jawabannya dalam bentuk desimal, contoh: 4,45
+[2017-04-09 05:26:36] < Coba lagi
+[2017-04-09 05:26:42] : 4.45
+[2017-04-09 05:26:42] < Jawabannya dalam bentuk desimal, contoh: 8,57
+[2017-04-09 05:26:42] < Coba lagi
+[2017-04-09 05:26:47] : 8.57
+[2017-04-09 05:26:47] < Jawabannya dalam bentuk desimal, contoh: 3,20
+[2017-04-09 05:26:47] < Coba lagi
+[2017-04-09 05:26:58] : 3,20
+[2017-04-09 05:26:59] < Jawabannya dalam bentuk desimal, contoh: 3,36
+[2017-04-09 05:26:59] < Coba lagi
+[2017-04-09 05:27:04] : Anjay :v
+[2017-04-09 05:27:05] < :)
+[2017-04-09 05:28:07] : Ganti
+[2017-04-09 05:28:08] < ★ Jika suku ke-1 adalah 3 dan suku ke-3 adalah 9, maka suku-4 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 05:28:26] : 12
+[2017-04-09 05:28:26] < (yeah) Betul Shofia!
+[2017-04-09 05:28:28] < Soal selanjutnya...
+[2017-04-09 05:28:31] < ★ 3 siswa senang makan nasi goreng dan juga makan bubur ayam, sedangkan 9 siswa tidak senang keduanya. Siswa yang hanya senang makan nasi goreng saja ada 1, dan siswa yang senang makan bubur ayam saja ada 6 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 05:28:58] : Rumus
+[2017-04-09 05:28:59] < Rumusnya: jumlahTotal = hanyaA + hanyaB - AjugaB + tidakAB
+[2017-04-09 05:38:18] : 13
+[2017-04-09 05:38:19] < Coba lagi
+[2017-04-09 05:38:48] : 14
+[2017-04-09 05:38:48] < Bukan itu
+[2017-04-09 05:38:51] : 12
+[2017-04-09 05:38:52] < Coba lagi
+[2017-04-09 05:38:55] : 10
+[2017-04-09 05:38:56] < Bukan itu
+[2017-04-09 05:38:58] : 1
+[2017-04-09 05:38:58] < Masih belum betul
+[2017-04-09 05:39:00] : 11
+[2017-04-09 05:39:01] < Coba lagi
+[2017-04-09 05:39:02] < Kamu bisa minta "ganti soal" kalau yang ini susah
+[2017-04-09 05:39:07] : Ganti
+[2017-04-09 05:39:07] < ★ Suku ke-2 dan suku ke-3 suatu barisan aritmatika berturut-turut adalah 6 dan 9. Suku ke-5 barisan tersebut adalah ...
+[2017-04-09 05:39:34] : 15
+[2017-04-09 05:39:34] < (yes) Betul Shofia!, langsung terjawab
+[2017-04-09 05:39:37] < Selanjutnya...
+[2017-04-09 05:39:40] < ★ Fatin membeli televisi seharga Rp 400 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 05:39:52] : Rumus
+[2017-04-09 05:39:53] < Rumusnya hargaJual = hargaBeli + (hargaBeli x untungPersen / 100)
+[2017-04-09 05:41:10] : 440 ribu
+[2017-04-09 05:41:10] < (amazed) Ya! Betul Shofia, langsung terjawab
+[2017-04-09 05:41:11] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:41:13] < Siap utk soal berikutnya...
+[2017-04-09 05:41:16] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-09 05:41:35] : 4
+[2017-04-09 05:41:36] < Masih belum betul
+[2017-04-09 05:41:40] : Rumus
+[2017-04-09 05:41:41] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 05:43:27] : 2 Minggu
+[2017-04-09 05:43:27] < Bukan, coba lagi
+[2017-04-09 05:43:31] : 3 minggy
+[2017-04-09 05:43:32] < Bukan, coba lagi
+[2017-04-09 05:43:34] : *u
+[2017-04-09 05:43:34] < ?
+[2017-04-09 05:43:42] : Ganti
+[2017-04-09 05:43:42] < ★ Gradien persamaan garis yang melalui titik (1, -2) dan (3, 3) adalah ...
+[2017-04-09 05:44:01] : Gradien itu Apa kak?
+[2017-04-09 05:44:01] < ★ Gradien persamaan garis yang melalui titik (-1, 0) dan (0, 3) adalah ...
+[2017-04-09 05:44:13] : Rumus
+[2017-04-09 05:44:13] < Rumus persamaan garis adalah y-y1 = m(x-x1) dimana gradien m = (y2-y1) / (x2-x1)
+[2017-04-09 05:44:56] : 1 , 2
+[2017-04-09 05:44:57] < Bukan itu
+[2017-04-09 05:45:03] : 1 dan 2
+[2017-04-09 05:45:03] < Coba lagi
+[2017-04-09 05:45:06] : Ganti
+[2017-04-09 05:45:07] < ★ Gradien persamaan garis yang melalui titik (2, 3) dan (-1, -3) adalah ...
+[2017-04-09 05:45:28] : 0
+[2017-04-09 05:45:29] < Bukan itu
+[2017-04-09 05:45:39] : Ganti
+[2017-04-09 05:45:40] < ★ Gradien persamaan garis yang melalui titik (1, 2) dan (-2, -2) adalah ...
+[2017-04-09 05:46:19] : Ganti
+[2017-04-09 05:46:20] < ★ Gradien persamaan garis yang melalui titik (3, 3) dan (-1, 2) adalah ...
+[2017-04-09 05:46:27] : Soal fisika
+[2017-04-09 05:46:28] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 05:48:11] : 4
+[2017-04-09 05:48:11] < Bukan, coba lagi
+[2017-04-09 05:48:15] : 1
+[2017-04-09 05:48:15] < Bukan
+[2017-04-09 05:48:25] : 0
+[2017-04-09 05:48:26] < Bukan itu
+[2017-04-09 05:48:28] : 3
+[2017-04-09 05:48:28] < Masih belum betul
+[2017-04-09 05:48:31] : 4
+[2017-04-09 05:48:31] < Bukan itu
+[2017-04-09 05:48:33] : 5
+[2017-04-09 05:48:34] < Bukan
+[2017-04-09 05:48:35] < Kamu bisa minta "ganti soal" kalau yang ini susah
+[2017-04-09 05:48:37] : 6
+[2017-04-09 05:48:37] < (no) Tebak-tebakan aja ya?
+[2017-04-09 05:48:42] : 7
+[2017-04-09 05:48:43] < Bukan
+[2017-04-09 05:48:46] : Wkwk
+[2017-04-09 05:48:46] < :)
+[2017-04-09 05:49:16] : Ganti
+[2017-04-09 05:49:17] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-04-09 05:51:32] : 720 ribu
+[2017-04-09 05:51:33] < (clap) Betul Shofia!
+[2017-04-09 05:51:33] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:51:35] < Siap lagi...
+[2017-04-09 05:51:38] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika ada tambahan pekerja sebanyak 1 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-04-09 05:54:05] : 2minggu
+[2017-04-09 05:54:06] < (yes) Betul Shofia!, langsung terjawab
+[2017-04-09 05:54:08] < Soal selanjutnya...
+[2017-04-09 05:54:11] < ★ Suku ke-1 dan suku ke-3 suatu barisan aritmatika berturut-turut adalah 3 dan 7. Suku ke-4 barisan tersebut adalah ...
+[2017-04-09 05:54:36] : 2
+[2017-04-09 05:54:37] < Masih belum betul
+[2017-04-09 05:54:42] : 5
+[2017-04-09 05:54:42] < Masih belum betul
+[2017-04-09 05:54:46] : 4
+[2017-04-09 05:54:47] < Bukan itu
+[2017-04-09 05:54:49] : 7
+[2017-04-09 05:54:49] < Coba lagi
+[2017-04-09 05:54:51] : 8
+[2017-04-09 05:54:52] < Bukan, coba lagi
+[2017-04-09 05:54:54] : 1
+[2017-04-09 05:54:54] < (no) Tebak-tebakan aja ya?
+[2017-04-09 05:54:55] < Coba dihitung dulu sebelum jawab
+[2017-04-09 05:55:05] : Ga tau😌
+[2017-04-09 05:55:05] < Jangan menyerah
+[2017-04-09 05:55:11] : Sipp deh
+[2017-04-09 05:55:12] < ?
+[2017-04-09 05:55:15] : Rumus
+[2017-04-09 05:55:15] < Rumus suku ke-n adalah Un = U1 + (n-1)b, dimana b adalah besarnya selisih antara dua suku berurutan, dan selisihnya selalu sama. Un itu artinya suku ke-n, U1 itu suku ke-1. Contoh, jika suku ke-2 adalah 5 dan suku ke-4 adalah 11, artinya selisihnya adalah (11 - 5) / (4 - 2) = 3
+[2017-04-09 05:56:13] < Barisan: 3, _, 7, ?, _, ...
+[2017-04-09 05:56:32] < Contoh barisan aritmatika yang selisihnya 3 misalnya: 1, 4, 7, 10, 13, 16, ...
+[2017-04-09 05:56:34] : Ganti dehh
+[2017-04-09 05:56:34] < ★ Suku ke-1 dan suku ke-3 suatu barisan aritmatika berturut-turut adalah 1 dan 7. Suku ke-5 barisan tersebut adalah ...
+[2017-04-09 05:57:07] : 13
+[2017-04-09 05:57:07] < (clap) Ya! Betul Shofia, langsung terjawab
+[2017-04-09 05:57:07] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:57:09] < Siap utk soal berikutnya...
+[2017-04-09 05:57:13] < ★ 4 siswa senang fisika, dan sebagian di antaranya juga senang biologi. Siswa yang hanya senang biologi saja ada 6, dan siswa yang tidak senang keduanya ada 2. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 05:58:01] : Rumus
+[2017-04-09 05:58:01] < Rumusnya: jumlahTotal = hanyaA + hanyaB - AjugaB + tidakAB
+[2017-04-09 06:01:09] : 4
+[2017-04-09 06:01:10] < Bukan
+[2017-04-09 06:01:13] : 10
+[2017-04-09 06:01:14] < Masih belum betul
+[2017-04-09 06:01:33] : 12
+[2017-04-09 06:01:34] < Betul! (smile)
+[2017-04-09 06:01:34] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 06:01:37] < Siap lagi...
+[2017-04-09 06:01:40] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=2f6ac} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 06:02:17] : 113.04
+[2017-04-09 06:02:17] < Jawabannya dalam bentuk desimal, contoh: 8,77
+[2017-04-09 06:02:17] < Coba lagi
+[2017-04-09 06:02:34] : 6.06
+[2017-04-09 06:02:34] < Jawabannya dalam bentuk desimal, contoh: 8,20
+[2017-04-09 06:02:35] < Coba lagi
+[2017-04-09 06:02:47] : Ganti
+[2017-04-09 06:02:47] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 06:03:12] : Rumus
+[2017-04-09 06:03:13] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 06:03:22] : Ganti
+[2017-04-09 06:03:23] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 700 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-04-09 06:04:08] : 840 ribu
+[2017-04-09 06:04:09] < (clap) Betul Shofia!, langsung terjawab
+[2017-04-09 06:04:09] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 06:04:11] < Selanjutnya...
+[2017-04-09 06:04:14] : Skor
+[2017-04-09 06:04:15] < Kamu udah berhasil jawab 10 soal
+[2017-04-09 06:04:15] < ★ Diketahui 4(x+3) = 3x. Nilai dari x adalah ...
+[2017-04-09 06:04:26] : Rumus
+[2017-04-09 06:04:26] < Contoh yah, misalnya 4(x+5) = 2x, bisa diuraikan jadi 4x+20 = 2x.
+Lalu pindahkan x ke sisi kiri dan angka biasa ke sisi kanan, menjadi 4x-2x = -20, selanjutnya 2x = -20, jadi x = -10
+[2017-04-09 06:06:25] : 4
+[2017-04-09 06:06:26] < Masih belum betul
+[2017-04-09 06:06:44] : x = -4
+[2017-04-09 06:06:44] < ★ Diketahui 4(x-1) = 5x. Nilai dari x adalah ...
+[2017-04-09 06:07:28] : -20
+[2017-04-09 06:07:29] < Bukan, coba lagi
+[2017-04-09 06:07:35] : Ganti
+[2017-04-09 06:07:35] < ★ Diketahui 2(x-6) = 5x. Nilai dari x adalah ...
+[2017-04-09 06:09:44] : 24
+[2017-04-09 06:09:44] < Masih belum betul
+[2017-04-09 06:09:50] : Ga tauuu😥
+[2017-04-09 06:09:50] < Ayo coba lagi
+[2017-04-09 06:09:56] : Ganti aja dehh
+[2017-04-09 06:09:56] < ★ Diketahui 5(x-5) = 4x. Nilai dari x adalah ...
+[2017-04-09 06:10:06] : Soal yang lain?
+[2017-04-09 06:10:06] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=84454} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 06:11:17] : 200.96
+[2017-04-09 06:11:18] < Bukan, coba lagi
+[2017-04-09 06:11:30] : Ganti
+[2017-04-09 06:11:31] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 06:11:38] : Ganti
+[2017-04-09 06:11:39] < ★ Nur membeli sepeda seharga Rp 700 ribu dan ia ingin mendapat untung 30%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 06:12:10] : 910 ribu
+[2017-04-09 06:12:10] < (yes) Betul Shofia!
+[2017-04-09 06:12:12] < Soal berikutnya...
+[2017-04-09 06:12:15] : Yeayy
+[2017-04-09 06:12:15] < ★ Gradien persamaan garis yang melalui titik (-2, 1) dan (-3, -2) adalah ...
+[2017-04-09 06:12:16] < Saya ngga tau harus bilang apa
+[2017-04-09 06:12:29] : Rumus
+[2017-04-09 06:12:30] < Rumus persamaan garis adalah y-y1 = m(x-x1) dimana gradien m = (y2-y1) / (x2-x1)
+[2017-04-09 06:12:37] : Yang lain
+[2017-04-09 06:12:38] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=70b16} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 06:21:58] : Ada topik apa aja?
+[2017-04-09 06:21:58] < Saat ini baru ada topik tentang Barisan Aritmatika, Irisan Himpunan, Aljabar, Rasio, Persamaan Garis, Persen, Lingkaran
+[2017-04-09 06:22:13] : Irisan himpunan
+[2017-04-09 06:22:13] < ★ Ada 16 siswa dimana 5 siswa senang Bahasa Indonesia, 8 siswa senang Bahasa Inggris, dan 4 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 06:23:40] : Ganti
+[2017-04-09 06:23:41] < ★ 7 siswa senang fisika, dan sebagian di antaranya juga senang biologi. Siswa yang hanya senang biologi saja ada 2, dan siswa yang tidak senang keduanya ada 3. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 06:23:55] : Aljabar
+[2017-04-09 06:23:56] < ★ Diketahui 4(x+10) = 2x. Nilai dari x adalah ...
+[2017-04-09 06:24:06] : Rasio
+[2017-04-09 06:24:06] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika ada tambahan pekerja sebanyak 3 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-04-09 06:24:18] : Persamaan garis
+[2017-04-09 06:24:19] < ★ Gradien persamaan garis yang melalui titik (-3, 0) dan (1, -1) adalah ...
+[2017-04-09 06:24:48] : Usul topik perkalian
+[2017-04-09 06:24:48] < Ok, ma kasih, nanti dipertimbangkan
+[2017-04-09 06:24:48] < Kalau ada masalah atau mau tanya-tanya, hubungi aja @enof pake LINE
+[2017-04-09 06:25:38] : Berapa 1+1?
+[2017-04-09 06:25:38] < 2
+[2017-04-09 06:25:58] : Berapa 50% + 25
+[2017-04-09 06:25:58] < :)
+[2017-04-09 06:26:05] : Mati luuu.
+[2017-04-09 06:26:05] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 06:26:12] : Belajar dong
+[2017-04-09 06:26:13] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 06:26:18] : Anjay
+[2017-04-09 06:26:19] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:26:30] : Umur lu berapa?
+[2017-04-09 06:26:42] : ?
+[2017-04-09 06:26:55] : Anjay, Just read
+[2017-04-09 06:27:00] : Skor
+[2017-04-09 06:27:00] < Kamu udah berhasil menjawab 11 soal
+[2017-04-09 06:27:54] : Soal tentang aljabar yang mudah
+[2017-04-09 06:27:54] < ★ Diketahui 2(x+1) = 3x. Nilai dari x adalah ...
+[2017-04-09 06:28:03] : Soal tentang aljabar suah
+[2017-04-09 06:28:04] < ★ Diketahui 4(x+2) = 5x. Nilai dari x adalah ...
+[2017-04-09 06:28:08] : *susah
+[2017-04-09 06:28:08] < Jangan menyerah
+[2017-04-09 06:28:14] : Eeleh
+[2017-04-09 06:28:14] < Saya ngga tau harus bilang apa
+[2017-04-09 06:28:20] : Ya bilang apa aja
+[2017-04-09 06:28:20] < Itu juga saya ngga ngerti
+[2017-04-09 06:32:19] : Berapa 56+1354×62837+12479×0= ?
+[2017-04-09 06:32:19] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 06:32:26] : Katanya pintar?
+[2017-04-09 06:32:27] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:32:31] : Anjay
+[2017-04-09 06:32:36] : :L
+[2017-04-09 06:32:39] : Kak?
+[2017-04-09 06:32:39] < Apa?
+[2017-04-09 06:32:44] : Kelas brp?
+[2017-04-09 06:32:44] < Saya ngga tau harus jawab apa
+[2017-04-09 06:32:50] : Kelas berapa?
+[2017-04-09 06:32:50] < Masih ngga ngerti
+[2017-04-09 06:32:56] : Sekolah dimana?
+[2017-04-09 06:32:57] < Di awan
+[2017-04-09 06:32:58] < Kalau kamu di mana?
+[2017-04-09 06:33:03] : Awan apa?
+[2017-04-09 06:33:03] < ?
+[2017-04-09 06:33:09] : Di atas tanah
+[2017-04-09 06:33:10] < Oh di Atas tanah
+[2017-04-09 06:33:13] : Iyaa
+[2017-04-09 06:33:13] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 06:33:25] : Kamu sekolah diawan ya??
+[2017-04-09 06:33:26] < :)
+[2017-04-09 06:33:49] : Asalnya dari daerah mana?
+[2017-04-09 06:33:49] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 06:34:00] : Asal daerah sendiri aja ga tau
+[2017-04-09 06:34:00] < Ayo coba lagi
+[2017-04-09 06:34:05] : Njrr
+[2017-04-09 06:34:05] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 06:34:10] : Anjay lu
+[2017-04-09 06:34:11] < :)
+[2017-04-09 06:34:13] : Kak?
+[2017-04-09 06:34:14] < Iya?
+[2017-04-09 06:34:20] : Kok kakak jelek banget
+[2017-04-09 06:34:20] < Saya ngga tau harus bilang apa
+[2017-04-09 06:34:25] : Wkwk
+[2017-04-09 06:34:25] < :)
+[2017-04-09 06:34:35] : Just Kidding kok kak
+[2017-04-09 06:34:36] < ?
+[2017-04-09 06:34:44] : Kakak umurnya berapa
+[2017-04-09 06:34:46] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:34:58] : 1+1
+[2017-04-09 06:34:58] < Mau latihan soal matematika?
+[2017-04-09 06:35:03] : Gak
+[2017-04-09 06:35:04] < Kamu pasti bisa
+[2017-04-09 06:35:07] : Gak ah
+[2017-04-09 06:35:07] < Ayo coba lagi
+[2017-04-09 06:35:12] : Gak mau
+[2017-04-09 06:35:13] < Ok, siap ya...
+[2017-04-09 06:35:14] < ★ Diketahui 3(x-4) = 4x. Nilai dari x adalah ...
+[2017-04-09 06:35:24] : Udh dibilang gak mau bego'
+[2017-04-09 06:35:24] < Ayo coba lagi
+[2017-04-09 06:36:01] : Goblok Luh (lempar)(haha)
+[2017-04-09 06:36:02] < Saya ngga tau harus bilang apa
+[2017-04-09 06:43:00] : Ya udh diam aja
+[2017-04-09 06:43:00] < Masih ngga ngerti
+[2017-04-09 06:43:10] : :v
+[2017-04-09 06:43:10] < ?
+[2017-04-09 06:49:32] : Sayang
+[2017-04-09 06:49:32] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:49:36] : Hwi
+[2017-04-09 06:49:37] < Kalau ada masalah dgn chat bot ini atau mau tanya-tanya soal matematika, hubungi aja @enof pake LINE
+[2017-04-09 06:49:43] : Hai
+[2017-04-09 06:49:43] < Hai juga
+[2017-04-09 06:49:47] : Lagi apa
+[2017-04-09 06:49:48] < Maaf, saya ngga ngerti
+[2017-04-09 06:50:01] : Kenal simi simi?
+[2017-04-09 06:50:03] < Masih ngga ngerti
+[2017-04-09 06:50:17] : Nama kamu siapa
+[2017-04-09 06:50:17] < Nama saya Dhiqa
+[2017-04-09 06:50:34] : Nama kepanjangan kamu siapa
+[2017-04-09 06:50:34] < Nama saya Dhiqa
+[2017-04-09 06:50:40] : Dhiqa apa
+[2017-04-09 06:50:41] < Saya ngga tau harus jawab apa
+[2017-04-09 06:50:57] : Cwe ap cwo °-°
+[2017-04-09 06:50:59] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 06:51:07] : Kamu kelas berapa
+[2017-04-09 06:51:07] < :)
+[2017-04-09 06:51:14] : Sekolah dimana
+[2017-04-09 06:51:14] < Di awan
+[2017-04-09 06:51:20] : Awa
+[2017-04-09 06:51:20] < ?
+[2017-04-09 06:51:24] : Awan?
+[2017-04-09 06:51:24] < :)
+[2017-04-09 06:51:36] : Kamu hantu ya?
+[2017-04-09 06:51:37] < :)
+[2017-04-09 06:51:40] : Iya?
+[2017-04-09 06:51:41] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:51:46] : Skore
+[2017-04-09 06:51:51] : Skor
+[2017-04-09 06:51:51] < Kamu udah menjawab 11 soal
+[2017-04-09 06:51:56] : Tambah lagi
+[2017-04-09 06:51:56] < ?
+[2017-04-09 06:52:01] : Lagii
+[2017-04-09 06:52:02] < ?
+[2017-04-09 06:52:09] : Mau pm 1
+[2017-04-09 06:52:09] < Masih ngga ngerti
+[2017-04-09 06:52:24] : Kamu sekolah di smp mana
+[2017-04-09 06:52:25] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 06:52:41] : Kami cantik gak?
+[2017-04-09 06:52:41] < Jangan putus asa
+[2017-04-09 06:52:49] : Orang nanyaa
+[2017-04-09 06:52:49] < Maaf, saya ngga ngerti
+[2017-04-10 07:20:51] : Hay
+[2017-04-10 07:20:51] < Hay juga
+[2017-04-10 12:02:20] : Hay
+[2017-04-10 12:02:20] < Hay juga
+[2017-04-10 12:02:29] : Lagi ala
+[2017-04-10 12:02:29] < ?
+[2017-04-10 12:02:35] : Lagi apa
+[2017-04-10 12:02:35] < :)
+[2017-04-10 12:02:44] : Orang nanya bego
+[2017-04-10 12:02:44] < :)
+[2017-04-11 15:24:34] : Kak
+[2017-04-11 15:24:34] < Iya
+[2017-04-11 15:24:37] : Lagi apa
+[2017-04-11 15:24:38] < Saya ngga tau harus bilang apa
+[2017-04-11 15:24:41] : V
+[2017-04-11 15:24:42] < Masih ngga ngerti
+[2017-04-11 15:24:46] : Tau"
+[2017-04-11 15:24:46] < Itu juga saya ngga ngerti

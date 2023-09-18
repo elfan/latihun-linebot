@@ -1,0 +1,58 @@
+[2017-04-09 12:36:26] ! new follower
+[2017-04-09 12:36:28] < Hai
+[2017-04-09 12:38:57] : Hai
+[2017-04-09 12:38:59] < Nama kamu siapa?
+[2017-04-09 12:39:20] : Rio
+[2017-04-09 12:39:21] < Ok Rio
+[2017-04-09 12:39:22] < Mau latihan soal matematika?
+[2017-04-09 12:39:38] : Iyaa
+[2017-04-09 12:39:38] < Saya ngga tau harus jawab apa
+[2017-04-09 12:40:28] : Soalnya mana?
+[2017-04-09 12:40:29] < ★ Suku ke-1 dan suku ke-2 suatu barisan aritmatika berturut-turut adalah 2 dan 4. Suku ke-4 barisan tersebut adalah ...
+[2017-04-09 12:41:26] : 8
+[2017-04-09 12:41:27] < (yeah) Hebat Rio!
+[2017-04-09 12:41:29] < Selanjutnya...
+[2017-04-09 12:41:32] < ★ Diketahui 4(x+10) = 2x. Nilai dari x adalah ...
+[2017-04-09 12:42:09] : -20
+[2017-04-09 12:42:10] < (yes) Ya! Betul Rio
+[2017-04-09 12:42:12] < Selanjutnya...
+[2017-04-09 12:42:15] < ★ Suatu barisan aritmatika diketahui suku ke-1 adalah 3 dan suku ke-4 adalah 9, maka suku ke-3 adalah ...
+[2017-04-09 12:42:59] : 7
+[2017-04-09 12:43:00] < (yes) Ya! Betul Rio, langsung terjawab
+[2017-04-09 12:43:02] < Selanjutnya...
+[2017-04-09 12:43:05] < ★ Amanda membeli sepeda seharga Rp 700 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 12:43:46] : 770 ribu
+[2017-04-09 12:43:46] < (clap) Ya! Betul Rio
+[2017-04-09 12:43:49] < Selanjutnya...
+[2017-04-09 12:43:52] < ★ Gradien persamaan garis yang melalui titik (-2, 2) dan (-1, -2) adalah ...
+[2017-04-09 12:44:32] : -4
+[2017-04-09 12:44:33] < (yeah) Betul Rio!, langsung terjawab
+[2017-04-09 12:44:34] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:44:35] < Soal berikutnya...
+[2017-04-09 12:44:38] < ★ Taufiq membeli tas seharga Rp 300 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 12:45:05] : 330 rb
+[2017-04-09 12:45:06] < (yeah) Betul Rio!
+[2017-04-09 12:45:08] < Siap utk soal berikutnya...
+[2017-04-09 12:45:11] < ★ 3 siswa senang memanjat tebing dan juga arung jeram, sedangkan 7 siswa tidak senang keduanya. Siswa yang hanya senang memanjat tebing saja ada 5, dan siswa yang senang arung jeram saja ada 2 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 12:46:25] : 23
+[2017-04-09 12:46:25] < Bukan, coba lagi
+[2017-04-09 12:46:53] : Gmn caranya kk?
+[2017-04-09 12:46:54] < Rumusnya: jumlahTotal = senangA + senangB - senangAjugaB + tidakSenangAB
+atau jumlahTotal = hanyaSenangA + hanyaSenangB + senangAjugaB + tidakSenangAB
+[2017-04-09 12:47:33] : 17
+[2017-04-09 12:47:34] < Betul! (smile)
+[2017-04-09 12:47:36] < Selanjutnya...
+[2017-04-09 12:47:39] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=e28a6} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:48:38] : 18,84
+[2017-04-09 12:48:39] < Masih belum betul
+[2017-04-09 12:49:08] : Gmn?
+[2017-04-09 12:49:09] < :)
+[2017-04-09 12:49:26] : Cara
+[2017-04-09 12:49:26] < :)
+[2017-04-09 12:51:00] : Gatau
+[2017-04-09 12:51:00] < Ayo coba lagi
+[2017-04-09 12:51:37] : 13,18
+[2017-04-09 12:51:37] < Bukan
+[2017-04-09 12:51:51] : Bingung..cara doonk
+[2017-04-09 12:51:52] < Jangan putus asa
+[2017-04-09 12:52:21] ! unfollow

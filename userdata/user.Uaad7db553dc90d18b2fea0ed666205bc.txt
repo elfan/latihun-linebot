@@ -1,0 +1,87 @@
+[2017-04-09 10:29:11] ! new follower
+[2017-04-09 10:29:12] < Hai
+[2017-04-09 10:29:20] : (6118,10467624)
+[2017-04-09 10:29:21] < :)
+[2017-04-09 10:29:35] : Mau soal lat un smp dong
+[2017-04-09 10:29:35] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 30% ?
+[2017-04-09 10:31:04] : 600000.30/100 =
+6000.30 = 180000
+
+600000+180000 =780000
+[2017-04-09 10:31:05] < :)
+[2017-04-09 10:31:11] : Soal fisika ada ga
+[2017-04-09 10:31:12] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=6c9ee} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 10:31:29] : Bener ga jwbnnya yg tadi
+[2017-04-09 10:31:29] < Jangan putus asa
+[2017-04-09 10:31:36] : Iya
+[2017-04-09 10:31:36] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 10:31:56] : Ok
+[2017-04-09 10:31:56] < Masih ngga ngerti
+[2017-04-09 10:31:59] : Ih
+[2017-04-09 10:31:59] < Masih ngga ngerti
+[2017-04-09 10:32:02] : Mana lagi
+[2017-04-09 10:32:02] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 10:32:14] : 1+1
+[2017-04-09 10:32:14] < 2
+[2017-04-09 10:32:21] : Skor saya
+[2017-04-09 10:32:21] < Masih kosong
+[2017-04-09 10:32:29] : 780
+[2017-04-09 10:32:29] < Jawabannya dalam bentuk desimal, contoh: 6,65
+[2017-04-09 10:32:30] < Coba lagi
+[2017-04-09 10:32:36] : Apa sih
+[2017-04-09 10:32:36] < Saya ngga tau harus bilang apa
+[2017-04-09 10:32:44] : Soal
+[2017-04-09 10:32:44] < ★ Kiki membeli sepeda seharga Rp 600 ribu dan ia ingin mendapat untung 30%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 10:32:51] : 780000
+[2017-04-09 10:32:51] < Coba lagi
+[2017-04-09 10:33:37] : Rp 780ribu
+[2017-04-09 10:33:37] < :)
+[2017-04-09 10:33:44] : 780000
+[2017-04-09 10:33:45] < Bukan
+[2017-04-09 10:33:51] : 780000
+[2017-04-09 10:33:51] < Bukan, coba lagi
+[2017-04-09 10:33:54] : Apa
+[2017-04-09 10:33:54] < :)
+[2017-04-09 10:33:57] : 780000
+[2017-04-09 10:33:58] < Bukan itu
+[2017-04-09 10:34:01] : Terus apa
+[2017-04-09 10:34:02] < Saya ngga tau harus jawab apa
+[2017-04-09 10:34:05] : anj
+[2017-04-09 10:34:05] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 10:34:18] : 600000.30/100 =
+6000.30 = 180000
+
+600000+180000 =780000
+[2017-04-09 10:34:18] < ?
+[2017-04-09 10:34:25] : 780000 hasilnya
+[2017-04-09 10:34:25] < Coba lagi
+[2017-04-09 10:34:27] < Kamu bisa minta "ganti soal" atau "nyerah" kalau yang ini susah
+[2017-04-09 10:34:40] : Anj beneran ai km tadi udah aku cek pake kalkulator):
+[2017-04-09 10:34:40] < Saya ngga tau harus jawab apa
+[2017-04-09 10:35:14] : (2,162)
+[2017-04-09 10:35:15] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 10:35:15] : (2,162)
+[2017-04-09 10:35:16] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 10:35:16] : (2,162)
+[2017-04-09 10:35:16] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 10:35:16] : (2,162)
+[2017-04-09 10:35:16] : (2,162)
+[2017-04-09 10:35:17] < ?
+[2017-04-09 10:35:20] : Ganti soal
+[2017-04-09 10:35:21] < ★ Jika suku ke-2 adalah 3 dan suku ke-4 adalah 7, maka suku-5 dalam barisan aritmatika tersebut adalah ...

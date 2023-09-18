@@ -1,0 +1,40 @@
+[2017-04-09 11:10:27] ! new follower
+[2017-04-09 11:10:29] < Hai
+[2017-04-09 11:10:54] : Hai
+[2017-04-09 11:10:55] < Nama kamu siapa?
+[2017-04-09 11:11:06] : Gia
+[2017-04-09 11:11:06] < Ok Gia
+[2017-04-09 11:11:08] < Mau latihan soal matematika?
+[2017-04-09 11:11:28] : Mau dong
+[2017-04-09 11:11:29] < Ok, siap ya...
+[2017-04-09 11:11:30] < ★ Feny membeli printer seharga Rp 700 ribu dan ia ingin mendapat untung 20%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 11:19:50] : Rp.84.000
+[2017-04-09 11:19:50] < Maaf, saya ngga ngerti
+[2017-04-09 11:20:25] : Harga penjualan rp.84.000
+[2017-04-09 11:20:25] < :)
+[2017-04-09 11:20:37] : Soal yang lain
+[2017-04-09 11:20:38] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-04-09 11:21:57] : Rp 120 ribu
+[2017-04-09 11:21:57] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 11:22:20] : Soal yang lain
+[2017-04-09 11:22:20] < ★ Diketahui 3(x+4) = 5x. Nilai dari x adalah ...
+[2017-04-09 11:25:08] : Nilai x adalah 7x
+[2017-04-09 11:25:08] < Kamu belum menjawab soal satu pun
+[2017-04-13 10:57:09] : Cara menjawab soal
+[2017-04-13 10:57:09] < Contoh yah, misalnya 4(x+5) = 2x, bisa diuraikan jadi 4x+20 = 2x.
+Lalu pindahkan x ke sisi kiri dan angka biasa ke sisi kanan, menjadi 4x-2x = -20, selanjutnya 2x = -20, jadi x = -10
+[2017-04-13 10:58:18] : Mau soal
+[2017-04-13 10:58:19] < ★ Hana membeli sepeda seharga Rp 600 ribu dan ia ingin mendapat untung 20%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-13 11:01:18] : 20/100 x 600 ribu= 120 ribu + 600 ribu = 720 ribu
+[2017-04-13 11:01:18] < ★ Diketahui 3(x+4) = 2x. Nilai dari x adalah ...
+[2017-04-13 11:05:39] : 3(x+4) = 2x diuraikan 3x + 12 = 2x menjadi 3x + 2x =-12,selanjutnya 2x = -12 jadi x = -6
+[2017-04-13 11:05:40] < ★ Diketahui 3(x-2) = 4x. Nilai dari x adalah ...
+[2017-04-13 11:06:07] : Sudah saya jawab tadi
+[2017-04-13 11:06:07] < Maaf, saya ngga ngerti
+[2017-04-13 11:08:50] : 3(x+-2) = 4x, bisa diuraikan jadi 3x + 20 = 4x.
+Lalu pindahkan x ke sisi kiri dan angka biasa ke sisi kanan, menjadi 3x-2x = -12, selanjutnya 2x = -12, jadi x = -6
+[2017-04-13 11:08:50] < ★ Diketahui 4(x+5) = 3x. Nilai dari x adalah ...
+[2017-04-13 11:09:57] : Soal Pelajaran lain
+[2017-04-13 11:09:58] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-13 11:10:58] : Pelajaran lain
+[2017-04-13 11:10:58] < Maaf, ngga semua kata-kata bisa saya ngerti

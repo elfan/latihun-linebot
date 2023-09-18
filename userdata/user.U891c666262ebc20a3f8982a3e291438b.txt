@@ -1,0 +1,106 @@
+[2017-04-09 12:20:37] ! new follower
+[2017-04-09 12:20:38] < Hai
+[2017-04-09 12:20:43] : hi
+[2017-04-09 12:20:45] < Nama kamu siapa?
+[2017-04-09 12:20:48] : bima
+[2017-04-09 12:20:48] < Ok Bima
+[2017-04-09 12:20:50] < Mau latihan soal matematika?
+[2017-04-09 12:20:54] : boleh
+[2017-04-09 12:20:56] < Ok, siap ya...
+[2017-04-09 12:20:57] < ★ Taufiq membeli sepeda seharga Rp 700 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 12:21:46] : 770 ribu
+[2017-04-09 12:21:47] < (yes) Ya! Betul Bima
+[2017-04-09 12:21:49] < Siap lagi...
+[2017-04-09 12:21:53] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=c65d4} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:22:25] : ga bisa
+[2017-04-09 12:22:25] < Jangan menyerah
+[2017-04-09 12:22:36] : rumusnya?
+[2017-04-09 12:22:36] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 12:24:00] : 18,84
+[2017-04-09 12:24:01] < Bukan, coba lagi
+[2017-04-09 12:24:28] : ga tau
+[2017-04-09 12:24:28] < Jangan putus asa
+[2017-04-09 12:24:41] : jangan kelamaan apa jawabannya?
+[2017-04-09 12:24:42] < Saya ngga tau harus jawab apa
+[2017-04-09 12:26:17] : 50,24
+[2017-04-09 12:26:18] < Bukan, coba lagi
+[2017-04-09 12:26:29] : 50,24 cm
+[2017-04-09 12:26:29] < Coba lagi
+[2017-04-09 12:26:39] : soal lain
+[2017-04-09 12:26:40] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 2 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 12:27:13] : 2
+[2017-04-09 12:27:13] < Masih belum betul
+[2017-04-09 12:27:31] : 1
+[2017-04-09 12:27:31] < Betul! (smile)
+[2017-04-09 12:27:34] < Soal selanjutnya...
+[2017-04-09 12:27:37] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=ded96} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:27:49] : soal lain
+[2017-04-09 12:27:50] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=aabae} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:27:56] : lain
+[2017-04-09 12:27:56] < Saya ngga tau harus bilang apa
+[2017-04-09 12:28:05] : soal lain
+[2017-04-09 12:28:05] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 500 ribu jika ingin mendapat keuntungan sebesar 10% ?
+[2017-04-09 12:28:15] : soal lain
+[2017-04-09 12:28:15] < ★ Diketahui 3(x+10) = 5x. Nilai dari x adalah ...
+[2017-04-09 12:28:40] : 12
+[2017-04-09 12:28:40] < Coba lagi
+[2017-04-09 12:28:41] : 15
+[2017-04-09 12:28:43] < Betul! (smile)
+[2017-04-09 12:28:43] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:28:45] < Siap utk soal berikutnya...
+[2017-04-09 12:28:49] < ★ Diketahui 2(x+3) = 3x. Nilai dari x adalah ...
+[2017-04-09 12:28:51] : skor
+[2017-04-09 12:28:51] < Kamu udah berhasil jawab 3 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 12:29:15] : 6
+[2017-04-09 12:29:16] < (clap) Betul Bima!, langsung terjawab
+[2017-04-09 12:29:16] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:29:18] < Soal berikutnya...
+[2017-04-09 12:29:22] < ★ Suku ke-2 dan suku ke-4 suatu barisan aritmatika berturut-turut adalah 5 dan 11. Suku ke-5 barisan tersebut adalah ...
+[2017-04-09 12:31:24] : 14
+[2017-04-09 12:31:25] < (yeah) Betul Bima!
+[2017-04-09 12:31:27] < Soal berikutnya...
+[2017-04-09 12:31:30] < ★ Ada 17 siswa dimana 9 siswa senang fisika, 7 siswa senang biologi, dan 6 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 12:32:35] : 7
+[2017-04-09 12:32:36] < (yeah) Hebat Bima!
+[2017-04-09 12:32:38] < Soal berikutnya...
+[2017-04-09 12:32:41] < ★ 8 siswa senang memanjat tebing, dan sebagian di antaranya juga senang arung jeram. Siswa yang hanya senang arung jeram saja ada 4, dan siswa yang tidak senang keduanya ada 5. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 12:32:48] : besok aja
+[2017-04-09 12:32:48] < ?
+[2017-04-09 12:32:53] : goblok lu
+[2017-04-09 12:32:53] < :)
+[2017-04-09 12:32:57] : asi
+[2017-04-09 12:32:58] < Itu juga saya ngga ngerti
+[2017-04-09 12:33:00] : asu
+[2017-04-09 12:33:01] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 12:33:10] : keyword
+[2017-04-09 12:33:18] : keyword?
+[2017-04-09 12:33:18] < Kalau ada masalah dgn chat bot ini atau mau tanya-tanya soal matematika, hubungi aja @enof pake LINE
+[2017-04-09 12:33:38] : kata kunci
+[2017-04-09 12:33:52] : apa?
+[2017-04-09 12:33:52] < ?
+[2017-04-09 22:41:45] : bahasa indonesia
+[2017-04-09 22:41:46] < Sekarang hanya matematika aja
+[2017-04-09 22:41:51] : goblok
+[2017-04-09 22:41:51] < ?
+[2017-04-09 22:41:57] : kontol
+[2017-04-09 22:41:57] < ?
+[2017-04-09 22:42:01] : skor
+[2017-04-09 22:42:01] < Kamu udah berhasil menjawab 6 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 22:42:08] : rincian skor
+[2017-04-09 22:42:08] < Total menjawab 6 soal
+★12, ★★0, ★★★0
+Barisan Aritmatika = 2
+Irisan Himpunan = 2
+Persen = 2
+Aljabar = 4
+Rasio = 2

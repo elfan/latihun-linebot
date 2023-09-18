@@ -1,0 +1,23 @@
+[2017-04-02 09:28:33] ! new follower
+[2017-04-02 09:28:36] < Hai
+[2017-04-02 09:28:45] : Hai
+[2017-04-02 09:28:46] < Nama kamu siapa?
+[2017-04-02 09:28:51] : Wakwaw
+[2017-04-02 09:28:51] < Baik Wakwaw
+[2017-04-02 09:28:53] < Mau latihan soal matematika?
+[2017-04-02 09:28:58] : May lah
+[2017-04-02 09:28:58] < Maaf, saya ngga ngerti
+[2017-04-02 09:29:05] : Mau dong
+[2017-04-02 09:29:05] < Psst! Kalau kamu bisa jawab 25 soal paling lambat sampai tgl 6 April 2017, kamu bisa dapat hadiah pulsa sebesar Rp 25.000 lho, hanya untuk 10 orang pertama
+[2017-04-02 09:29:06] < Ok, siap ya...
+[2017-04-02 09:29:08] < ★ Suatu barisan aritmatika diketahui suku ke-2 adalah 6 dan suku ke-3 adalah 9, maka suku ke-4 adalah ...
+[2017-04-02 09:29:32] : 12
+[2017-04-02 09:29:32] < Betul! langsung terjawab
+[2017-04-02 09:29:34] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 2 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-02 09:29:51] : 8 orang
+[2017-04-02 09:29:51] < ?
+[2017-04-02 09:30:01] : 1
+[2017-04-02 09:30:01] < Ya! Betul
+[2017-04-02 09:30:03] < ★ Gradien persamaan garis yang melalui titik (-1, -1) dan (3, -2) adalah ...
+[2017-04-02 09:30:27] : Bisa dijawab besok?
+[2017-04-02 09:30:27] < ?

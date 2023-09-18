@@ -1,0 +1,92 @@
+[2017-04-09 12:27:13] ! new follower
+[2017-04-09 12:27:15] < Hai
+[2017-04-09 12:27:46] : hi
+[2017-04-09 12:27:48] < Nama kamu siapa?
+[2017-04-09 12:28:14] : Hadi
+[2017-04-09 12:28:14] < Ok Hadi
+[2017-04-09 12:28:15] < Mau latihan soal matematika?
+[2017-04-09 12:28:20] : yes
+[2017-04-09 12:28:20] < Saya ngga tau harus bilang apa
+[2017-04-09 12:28:24] : ya
+[2017-04-09 12:28:25] < Ok, siap ya...
+[2017-04-09 12:28:27] < ★ Gradien persamaan garis yang melalui titik (2, -1) dan (-1, 1) adalah ...
+[2017-04-09 12:40:51] : 2x+3y+5=0
+[2017-04-09 12:40:52] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 12:40:59] : ya
+[2017-04-09 12:41:00] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 12:41:13] : soal selanjutnya
+[2017-04-09 12:41:14] < ★ 5 siswa senang fisika dan juga biologi, sedangkan 9 siswa tidak senang keduanya. Siswa yang hanya senang fisika saja ada 3, dan siswa yang senang biologi saja ada 4 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 12:43:00] : 21
+[2017-04-09 12:43:01] < (clap) Hebat Hadi!, langsung terjawab
+[2017-04-09 12:43:04] < Soal berikutnya...
+[2017-04-09 12:43:06] < ★ Diketahui 4(x-4) = 3x. Nilai dari x adalah ...
+[2017-04-09 12:44:38] : 16
+[2017-04-09 12:44:38] < (clap) Ya! Betul Hadi, langsung terjawab
+[2017-04-09 12:44:40] < Siap utk soal berikutnya...
+[2017-04-09 12:44:44] < ★ Diketahui 3(x-4) = 2x. Nilai dari x adalah ...
+[2017-04-09 12:45:33] : 12
+[2017-04-09 12:45:34] < (yes) Betul Hadi!, langsung terjawab
+[2017-04-09 12:45:36] < Soal selanjutnya...
+[2017-04-09 12:45:39] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=b4636} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:47:35] : 62,8
+[2017-04-09 12:47:36] < Bukan itu
+[2017-04-09 12:49:00] : 31,4
+[2017-04-09 12:49:01] < Bukan itu
+[2017-04-09 12:49:09] : menyerah
+[2017-04-09 12:49:09] < :)
+[2017-04-09 12:49:23] : jawabannya
+[2017-04-09 12:49:23] < :)
+[2017-04-09 12:50:40] : selanjutnya
+[2017-04-09 12:50:40] < :)
+[2017-04-09 12:50:49] : soal selanjutnya
+[2017-04-09 12:50:50] < ★ Gradien persamaan garis yang melalui titik (-1, -3) dan (3, 1) adalah ...
+[2017-04-09 12:54:17] : x-y=4
+[2017-04-09 12:54:17] < ★ Diketahui 4(x-5) = 3x. Nilai dari x adalah ...
+[2017-04-09 12:54:58] : 20
+[2017-04-09 12:54:59] < (amazed) Ya! Betul Hadi
+[2017-04-09 12:54:58] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:55:01] < Soal berikutnya...
+[2017-04-09 12:55:04] < ★ Diketahui 4(x-4) = 5x. Nilai dari x adalah ...
+[2017-04-10 01:02:28] : skor
+[2017-04-10 01:02:28] < Kamu udah berhasil jawab 4 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-10 01:02:42] : rincian skor
+[2017-04-10 01:02:42] < Total menjawab 4 soal
+★4, ★★0, ★★★0
+Irisan Himpunan = 1
+Aljabar = 3
+[2017-04-10 10:32:08] : hai
+[2017-04-10 10:32:09] < Hai juga
+[2017-04-10 10:32:16] : ganti nama saya
+[2017-04-10 10:32:17] < ★ Diketahui 2(x-1) = 3x. Nilai dari x adalah ...
+[2017-04-10 10:32:26] : nama saya
+[2017-04-10 10:32:27] < Maaf, saya ngga ngerti
+[2017-04-10 10:32:31] : ganti nama
+[2017-04-10 10:32:31] < ★ Diketahui 2(x+6) = 4x. Nilai dari x adalah ...
+[2017-04-10 10:32:37] : nama saya Akmal
+[2017-04-10 10:32:37] < Ok Akmal
+[2017-04-10 10:33:23] : 3
+[2017-04-10 10:33:23] < Bukan
+[2017-04-10 10:33:32] : 6
+[2017-04-10 10:33:32] < Betul! (smile)
+[2017-04-10 10:33:34] < Siap utk soal berikutnya...
+[2017-04-10 10:33:38] < ★ Diketahui 2(x-6) = 4x. Nilai dari x adalah ...
+[2017-04-10 10:33:42] : yap
+[2017-04-10 10:33:43] < Saya ngga tau harus bilang apa
+[2017-04-10 10:33:45] : ya
+[2017-04-10 10:33:45] < ?
+[2017-04-10 10:33:52] : siap
+[2017-04-10 10:33:53] < Masih ngga ngerti
+[2017-04-10 10:34:06] : kumaha atuh, harus pake bahasa elien?
+[2017-04-10 10:34:06] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-10 10:34:25] : soal aljabar yg susah
+[2017-04-10 10:34:25] < ★★★ Diketahui -4(x-2)+5 = -10(x-1)+39. Nilai dari x+4 adalah ...
+[2017-05-22 02:43:32] ! unfollow

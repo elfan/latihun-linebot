@@ -1,0 +1,42 @@
+[2017-03-30 06:03:14.33893] < Hai
+[2017-03-30 06:03:29.81155] : Hai
+[2017-03-30 06:03:32.34263] < Nama kamu siapa?
+[2017-03-30 06:03:35.17445] < Mau latihan soal matematika?
+[2017-03-30 06:03:55.67150] : Hasbi
+[2017-03-30 06:04:00.39060] : Mau dong
+[2017-03-30 06:04:01.08861] < Ok, siap ya...
+[2017-03-30 06:04:03.70748] < ★ Diketahui 2(x+15) = 5x. Nilai dari x adalah ...
+[2017-03-30 06:05:05.36658] : 10
+[2017-03-30 06:05:06.04222] < hebat!
+[2017-03-30 06:05:06.63962] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:05:09.41042] < ★ Diketahui 5(x-9) = 2x. Nilai dari x adalah ...
+[2017-03-30 06:05:38.97198] : 15
+[2017-03-30 06:05:39.60451] < hebat! langsung terjawab
+[2017-03-30 06:05:40.24735] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:05:42.97248] < ★ Diketahui 5(x-3) = 2x. Nilai dari x adalah ...
+[2017-03-30 06:06:28.29340] : 5
+[2017-03-30 06:06:29.07281] < hebat!
+[2017-03-30 06:06:29.54881] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:06:32.36771] < ★ 3 siswa senang Bahasa Indonesia dan juga Bahasa Inggris, sedangkan 7 siswa tidak senang keduanya. Siswa yang hanya senang Bahasa Indonesia saja ada 3, dan siswa yang senang Bahasa Inggris saja ada 6 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-03-30 06:09:19.68604] : 19
+[2017-03-30 06:09:20.51178] < hebat!
+[2017-03-30 06:09:21.06313] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:09:23.98305] < ★ Ada 17 siswa dimana 5 siswa senang menyanyi, 8 siswa senang menari, dan 4 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-03-30 06:09:26.42403] < nama panggilan kamu siapa?
+[2017-03-30 06:11:14.99083] : 8
+[2017-03-30 06:11:16.47276] < hebat! langsung terjawab
+[2017-03-30 06:11:17.17060] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:11:20.20893] < ★ Jika suku ke-2 adalah 4 dan suku ke-3 adalah 6, maka suku-5 dalam barisan aritmatika tersebut adalah ...
+[2017-03-30 06:11:23.00427] < nama panggilan kamu siapa?
+[2017-03-30 06:14:08.33647] : 26
+[2017-03-30 06:14:08.99508] < coba lagi
+[2017-03-30 06:14:10.71129] : Hasbi
+[2017-03-30 06:14:11.21102] < Ok Hasbi
+[2017-03-30 06:14:13.76730] < Mau latihan soal matematika?
+[2017-03-30 06:14:37.52135] : 10
+[2017-03-30 06:14:38.36341] < betul!
+[2017-03-30 06:14:38.00167] < 5 kali lagi menjawab soal seperti ini, biar naik level
+[2017-03-30 06:14:41.72725] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-03-30 06:49:23.36032] < Maaf tadi perhitungan poinnya ada yg salah
+[2017-03-30 06:49:57.81055] < Silakan nanti coba lagi yah
+[2017-04-12 09:29:58] ! unfollow

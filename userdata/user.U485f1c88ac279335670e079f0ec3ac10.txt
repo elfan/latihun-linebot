@@ -1,0 +1,305 @@
+[2017-04-09 05:04:52] ! new follower
+[2017-04-09 05:04:53] < Hai
+[2017-04-09 05:05:28] : Soal latihan un
+[2017-04-09 05:05:29] < ★ Gradien persamaan garis yang melalui titik (2, 2) dan (1, -1) adalah ...
+[2017-04-09 05:07:55] : 2
+[2017-04-09 05:07:56] < Masih belum betul
+[2017-04-09 05:08:05] : 3
+[2017-04-09 05:08:06] < Betul! (smile)
+[2017-04-09 05:08:06] < Nama kamu siapa?
+[2017-04-09 05:08:24] : Dira
+[2017-04-09 05:08:24] < Baik Dira
+[2017-04-09 05:08:25] < Mau latihan soal matematika?
+[2017-04-09 05:08:33] : Mau
+[2017-04-09 05:08:36] < Ok, siap ya...
+[2017-04-09 05:08:37] < ★ Suku ke-1 dan suku ke-3 suatu barisan aritmatika berturut-turut adalah 1 dan 5. Suku ke-2 barisan tersebut adalah ...
+[2017-04-09 05:11:18] : 3
+[2017-04-09 05:11:19] < (amazed) Betul Dira!, langsung terjawab
+[2017-04-09 05:11:20] < Soal selanjutnya...
+[2017-04-09 05:11:23] < ★ Suku ke-2 dan suku ke-4 suatu barisan aritmatika berturut-turut adalah 5 dan 9. Suku ke-5 barisan tersebut adalah ...
+[2017-04-09 05:12:25] : 11
+[2017-04-09 05:12:26] < (yes) Betul Dira!
+[2017-04-09 05:12:26] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:12:27] < Siap utk soal berikutnya...
+[2017-04-09 05:12:30] < ★ Suatu barisan aritmatika diketahui suku ke-2 adalah 3 dan suku ke-4 adalah 7, maka suku ke-6 adalah ...
+[2017-04-09 05:13:20] : 11
+[2017-04-09 05:13:21] < (yeah) Ya! Betul Dira, langsung terjawab
+[2017-04-09 05:13:22] < Soal selanjutnya...
+[2017-04-09 05:13:25] < ★ Diketahui 5(x+2) = 3x. Nilai dari x adalah ...
+[2017-04-09 05:15:08] : 5
+[2017-04-09 05:15:09] < Bukan, coba lagi
+[2017-04-09 05:16:02] : -5
+[2017-04-09 05:16:03] < Betul! (smile)
+[2017-04-09 05:16:04] < Soal selanjutnya...
+[2017-04-09 05:16:07] < ★ Gradien persamaan garis yang melalui titik (1, 0) dan (3, 2) adalah ...
+[2017-04-09 05:17:51] : -1
+[2017-04-09 05:17:51] < Masih belum betul
+[2017-04-09 05:18:00] : 1
+[2017-04-09 05:18:00] < Betul! (smile)
+[2017-04-09 05:18:00] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 05:18:03] < Siap utk soal berikutnya...
+[2017-04-09 05:18:06] < ★ Gradien persamaan garis yang melalui titik (-1, -1) dan (-3, 1) adalah ...
+[2017-04-09 05:18:14] : Skor
+[2017-04-09 05:18:15] < Kamu udah menjawab 6 soal
+[2017-04-09 05:19:05] : Ada soal ipa?
+[2017-04-09 05:19:06] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 10% ?
+[2017-04-09 05:19:54] : 66rb
+[2017-04-09 05:19:54] < Bukan, coba lagi
+[2017-04-09 05:20:04] : Ipa
+[2017-04-09 05:20:04] < Sekarang hanya matematika aja
+[2017-04-09 05:20:09] : Ok
+[2017-04-09 05:20:10] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 05:32:35] < Ketik "soal" jika mau latihan soal
+[2017-04-09 06:50:02] : Soal
+[2017-04-09 06:50:04] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-09 06:50:55] : 4minggu
+[2017-04-09 06:50:56] < Coba lagi
+[2017-04-09 06:51:41] : 5 minggu
+[2017-04-09 06:51:41] < Bukan, coba lagi
+[2017-04-09 06:52:16] : 3 minggu
+[2017-04-09 06:52:16] < Betul! (smile)
+[2017-04-09 06:52:19] < Siap lagi...
+[2017-04-09 06:52:22] < ★ 2 siswa senang futsal dan juga atletik, sedangkan 2 siswa tidak senang keduanya. Siswa yang hanya senang futsal saja ada 5, dan siswa yang senang atletik saja ada 5 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 06:53:08] : 14
+[2017-04-09 06:53:09] < (amazed) Hebat Dira!
+[2017-04-09 06:53:11] < Selanjutnya...
+[2017-04-09 06:53:14] < ★ Gradien persamaan garis yang melalui titik (2, -1) dan (-3, -2) adalah ...
+[2017-04-09 07:50:58] : Soal
+[2017-04-09 07:50:58] < ★ Gradien persamaan garis yang melalui titik (0, -2) dan (3, -1) adalah ...
+[2017-04-09 07:52:17] : -5
+[2017-04-09 07:52:18] < Jawabannya dalam bentuk pecahan, contoh: 3/5
+[2017-04-09 07:52:18] < Coba lagi
+[2017-04-09 07:52:48] : 1/2
+[2017-04-09 07:52:49] < Bukan itu
+[2017-04-09 07:53:12] : 1/5
+[2017-04-09 07:53:13] < Bukan, coba lagi
+[2017-04-09 07:54:05] : -1/5
+[2017-04-09 07:54:05] < Coba lagi
+[2017-04-09 07:55:05] : 1/3
+[2017-04-09 07:55:06] < Betul! (smile)
+[2017-04-09 07:55:08] < Soal selanjutnya...
+[2017-04-09 07:55:11] < ★ Diketahui 3(x+5) = 2x. Nilai dari x adalah ...
+[2017-04-09 07:55:57] : 3
+[2017-04-09 07:55:58] < Bukan itu
+[2017-04-09 07:56:14] : -3
+[2017-04-09 07:56:15] < Bukan
+[2017-04-09 07:56:40] : -15
+[2017-04-09 07:56:40] < Betul! (smile)
+[2017-04-09 07:56:43] < Soal selanjutnya...
+[2017-04-09 07:56:46] < ★ Dari total 19 siswa, 8 siswa senang menari, 4 siswa senang main musik, dan 2 senang keduanya. Banyak siswa yang tidak senang menari maupun main musik adalah ...
+[2017-04-09 07:57:10] : 5
+[2017-04-09 07:57:11] < Bukan
+[2017-04-09 07:57:49] : 9
+[2017-04-09 07:57:49] < Betul! (smile)
+[2017-04-09 07:57:51] < Siap utk soal berikutnya...
+[2017-04-09 07:57:55] < ★ Suku ke-1 dan suku ke-2 suatu barisan aritmatika berturut-turut adalah 3 dan 5. Suku ke-3 barisan tersebut adalah ...
+[2017-04-09 07:59:09] : 7
+[2017-04-09 07:59:09] < (clap) Betul Dira!, langsung terjawab
+[2017-04-09 07:59:12] < Siap utk soal berikutnya...
+[2017-04-09 07:59:15] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 2 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 08:00:10] : 1 orang
+[2017-04-09 08:00:11] < (clap) Hebat Dira!
+[2017-04-09 08:00:11] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 08:00:13] < Soal berikutnya...
+[2017-04-09 08:00:17] < ★ 2 siswa senang futsal dan juga atletik, sedangkan 7 siswa tidak senang keduanya. Siswa yang hanya senang futsal saja ada 2, dan siswa yang senang atletik saja ada 2 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 08:00:42] : 13
+[2017-04-09 08:00:43] < (clap) Betul Dira!
+[2017-04-09 08:00:44] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 08:00:46] < Siap utk soal berikutnya...
+[2017-04-09 08:00:50] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=ef060} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 08:01:53] : Pembahasan
+[2017-04-09 08:01:53] < Rumus luas lingkaran adalah πr² dimana r = d/2
+[2017-04-09 08:02:22] : Nyerah
+[2017-04-09 08:02:23] < Coba kamu jawab dulu
+[2017-04-09 08:03:34] : 43
+[2017-04-09 08:03:34] < Jawabannya dalam bentuk desimal, contoh: 7,22
+[2017-04-09 08:03:34] < Coba lagi
+[2017-04-09 08:05:11] : 154,7
+[2017-04-09 08:05:11] < Bukan itu
+[2017-04-09 08:05:22] : Gatau caranya
+[2017-04-09 08:05:23] < Rumus luas lingkaran adalah πr² dimana r = d/2
+[2017-04-09 08:05:41] : R 7 bs pakai 22/7
+[2017-04-09 08:05:42] < :)
+[2017-04-09 08:05:49] : Next
+[2017-04-09 08:05:50] < ★ Suku ke-1 dan suku ke-2 suatu barisan aritmatika berturut-turut adalah 2 dan 5. Suku ke-3 barisan tersebut adalah ...
+[2017-04-09 08:06:33] : 8
+[2017-04-09 08:06:33] < (yeah) Betul Dira!
+[2017-04-09 08:06:35] < Selanjutnya...
+[2017-04-09 08:06:39] < ★ Suatu barisan aritmatika diketahui suku ke-1 adalah 2 dan suku ke-4 adalah 11, maka suku ke-3 adalah ...
+[2017-04-09 08:07:24] : 8
+[2017-04-09 08:07:24] < (yes) Hebat Dira!
+[2017-04-09 08:07:24] < Selamat! berikutnya kalau dapat soal tentang Barisan Aritmatika lagi siap-siap yang agak susah yah? :)
+[2017-04-09 08:07:26] < Siap lagi...
+[2017-04-09 08:07:30] < ★ Ada 16 siswa dimana 6 siswa senang futsal, 8 siswa senang atletik, dan 2 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 08:08:02] : 4
+[2017-04-09 08:08:03] < (yes) Hebat Dira!
+[2017-04-09 08:08:05] < Siap lagi...
+[2017-04-09 08:08:08] < ★ Dari total 20 siswa, 9 siswa senang Bahasa Indonesia, 9 siswa senang Bahasa Inggris, dan 4 senang keduanya. Banyak siswa yang tidak senang Bahasa Indonesia maupun Bahasa Inggris adalah ...
+[2017-04-09 08:08:30] : 6
+[2017-04-09 08:08:31] < (clap) Betul Dira!
+[2017-04-09 08:08:33] < Siap utk soal berikutnya...
+[2017-04-09 08:08:36] < ★ Ada 12 siswa dimana 5 siswa senang menari, 9 siswa senang main musik, dan 4 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 08:08:53] : 2
+[2017-04-09 08:08:53] < (yeah) Betul Dira!
+[2017-04-09 08:08:53] < Selamat! berikutnya kalau dapat soal tentang Irisan Himpunan lagi siap-siap yang agak susah yah? :)
+[2017-04-09 08:08:56] < Soal selanjutnya...
+[2017-04-09 08:08:59] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=c7a06} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 08:09:35] : 54,8
+[2017-04-09 08:09:36] < Bukan
+[2017-04-09 08:09:48] : Gatau caranya
+[2017-04-09 08:09:48] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 08:10:57] : 12,56
+[2017-04-09 08:10:58] < Coba lagi
+[2017-04-09 08:11:07] : 6,28
+[2017-04-09 08:11:07] < Bukan, coba lagi
+[2017-04-09 08:11:15] : Pembahasan
+[2017-04-09 08:11:15] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 08:11:58] : 2x1/2x2x3,14?
+[2017-04-09 08:11:58] < 6,28
+[2017-04-09 08:12:11] : Tadi ktany salah
+[2017-04-09 08:12:12] < Saya ngga tau harus jawab apa
+[2017-04-09 08:12:21] : Next
+[2017-04-09 08:12:21] < ★ Gradien persamaan garis yang melalui titik (0, 0) dan (3, 1) adalah ...
+[2017-04-09 08:13:06] : 1/3
+[2017-04-09 08:13:07] < (yes) Ya! Betul Dira
+[2017-04-09 08:13:09] < Siap utk soal berikutnya...
+[2017-04-09 08:13:12] < ★ Diketahui 5(x+9) = 2x. Nilai dari x adalah ...
+[2017-04-09 08:13:46] : -15
+[2017-04-09 08:13:47] < (amazed) Ya! Betul Dira
+[2017-04-09 08:13:49] < Siap utk soal berikutnya...
+[2017-04-09 08:13:52] < ★ Gradien persamaan garis yang melalui titik (3, 2) dan (0, 3) adalah ...
+[2017-04-09 08:36:48] : Next
+[2017-04-09 08:36:49] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 08:37:03] : 4 minggu
+[2017-04-09 08:37:04] < (yes) Ya! Betul Dira, langsung terjawab
+[2017-04-09 08:37:06] < Selanjutnya...
+[2017-04-09 08:37:09] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 30% ?
+[2017-04-09 08:39:41] : 7.800
+[2017-04-09 08:39:42] < Jawabannya dalam bilangan bulat, contoh: 19
+[2017-04-09 08:39:42] < Coba lagi
+[2017-04-09 08:39:53] : 13
+[2017-04-09 08:39:53] < Bukan, coba lagi
+[2017-04-09 08:40:06] : Pembahasan
+[2017-04-09 08:40:06] < Rumusnya hargaJual = hargaBeli + (hargaBeli x untungPersen / 100)
+[2017-04-09 08:41:03] : 2.400.000
+[2017-04-09 08:41:03] < :)
+[2017-04-09 08:41:39] : 10
+[2017-04-09 08:41:39] < Masih belum betul
+[2017-04-09 08:42:20] : 18
+[2017-04-09 08:42:20] < Coba lagi
+[2017-04-09 08:42:33] : 618.000
+[2017-04-09 08:42:33] < Jawabannya dalam bilangan bulat, contoh: 12
+[2017-04-09 08:42:33] < Coba lagi
+[2017-04-09 08:42:59] : Nyerah
+[2017-04-09 08:42:59] < Yang betul adalah 780
+[2017-04-09 08:43:01] < Siap buat soal berikutnya...
+[2017-04-09 08:43:04] < ★ Diketahui 3(x+3) = 2x. Nilai dari x adalah ...
+[2017-04-09 08:43:32] : 9
+[2017-04-09 08:43:33] < Coba lagi
+[2017-04-09 08:43:38] : -9
+[2017-04-09 08:43:39] < Betul! (smile)
+[2017-04-09 08:43:42] < Soal berikutnya...
+[2017-04-09 08:43:44] < ★★ Jumlah 3 buah suku pertama sebuah barisan aritmetika adalah 93 dan jumlah kuadratnya adalah 3105. Suku ke-5 barisan tersebut adalah ...
+[2017-04-09 08:44:37] : Next
+[2017-04-09 08:44:37] < ★ Agung membeli sepeda seharga Rp 300 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 08:45:12] : 330.000
+[2017-04-09 08:45:12] < (clap) Ya! Betul Dira
+[2017-04-09 08:45:14] < Soal berikutnya...
+[2017-04-09 08:45:17] < ★★ Suatu barisan aritmatika diketahui suku ke-4 adalah 16 dan suku ke-7 adalah 25, maka U4 + U6 + U11 adalah ...
+[2017-04-09 09:27:03] : Next
+[2017-04-09 09:27:03] < ★★ Dari total 88 siswa, 26 siswa senang basket, 50 siswa senang futsal, dan 19 senang keduanya. Banyak siswa yang tidak senang basket maupun futsal adalah ...
+[2017-04-09 09:27:36] : 31
+[2017-04-09 09:27:37] < (yeah) Hebat Dira!, langsung terjawab
+[2017-04-09 09:27:39] < Soal berikutnya...
+[2017-04-09 09:27:42] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=6f928} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 09:29:17] : 32,9
+[2017-04-09 09:29:18] < Bukan
+[2017-04-09 09:31:48] : Pembahasan
+[2017-04-09 09:31:49] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 09:33:09] : Nyerah
+[2017-04-09 09:33:10] < Nih, jawabannya 12,56
+[2017-04-09 09:33:11] < Siap buat soal berikutnya...
+[2017-04-09 09:33:14] < ★★ Jumlah 3 buah suku pertama sebuah barisan aritmetika adalah 100 dan jumlah kuadratnya adalah 3632. Suku ke-4 barisan tersebut adalah ...
+[2017-04-09 09:33:29] : Next
+[2017-04-09 09:33:30] < ★★ Dari total 76 siswa, 47 siswa senang memanjat tebing, 46 siswa senang arung jeram, dan 38 senang keduanya. Banyak siswa yang tidak senang memanjat tebing maupun arung jeram adalah ...
+[2017-04-09 09:34:01] : 20
+[2017-04-09 09:34:02] < Bukan, coba lagi
+[2017-04-09 09:34:24] : 23
+[2017-04-09 09:34:24] < Coba lagi
+[2017-04-09 09:34:41] : Pembahasan
+[2017-04-09 09:34:42] < Rumusnya: jumlahTotal = senangA + senangB - senangAjugaB + tidakSenangAB
+atau jumlahTotal = hanyaSenangA + hanyaSenangB + senangAjugaB + tidakSenangAB
+[2017-04-09 11:26:03] : Next
+[2017-04-09 11:26:04] < ★★ Ada 51 siswa dimana 28 siswa senang basket, 23 siswa senang futsal, dan 18 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 11:26:27] : 18
+[2017-04-09 11:26:28] < (clap) Ya! Betul Dira, langsung terjawab
+[2017-04-09 11:26:30] < Soal berikutnya...
+[2017-04-09 11:26:33] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 11:26:58] : 3 orng
+[2017-04-09 11:26:59] < (amazed) Ya! Betul Dira, langsung terjawab
+[2017-04-09 11:27:01] < Soal selanjutnya...
+[2017-04-09 11:27:04] < ★★ Suatu barisan aritmatika diketahui suku ke-2 adalah 6 dan suku ke-5 adalah 18, maka U2 + U4 + U9 adalah ...
+[2017-04-09 11:28:42] : 54
+[2017-04-09 11:28:43] < (yeah) Hebat Dira!
+[2017-04-09 11:28:43] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 11:28:45] < Siap lagi...
+[2017-04-09 11:28:49] < ★ Gradien persamaan garis yang melalui titik (0, 1) dan (-3, -2) adalah ...
+[2017-04-09 11:28:56] : Skor
+[2017-04-09 11:28:56] < Skor kamu 28
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 11:29:17] : Rincian skor
+[2017-04-09 11:29:17] < Total menjawab 28 soal
+★50, ★★6, ★★★0
+Barisan Aritmatika = 14
+Irisan Himpunan = 16
+Persamaan Garis = 8
+Persen = 2
+Aljabar = 8
+Rasio = 8
+[2017-04-09 11:29:58] : Next
+[2017-04-09 11:29:58] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 11:30:15] : 3 orang
+[2017-04-09 11:30:16] < (amazed) Betul Dira!
+[2017-04-09 11:30:18] < Selanjutnya...
+[2017-04-09 11:30:21] < ★★ Diketahui barisan aritmatika dengan U2 + U7 + U11 = 75 dan U14 = 47. Suku ke-19 barisan tersebut adalah ...
+[2017-04-11 13:33:25] : Soal
+[2017-04-11 13:33:25] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=a2e2c} Keliling daerah yang diwarnai adalah aπ + b. Berapakah a + b ?
+[2017-04-11 13:33:49] : Next
+[2017-04-11 13:33:50] < ★ Gradien persamaan garis yang melalui titik (3, 0) dan (-2, 2) adalah ...
+[2017-05-02 11:50:44] : Tes
+[2017-05-02 11:50:45] < Satu dua tiga
+[2017-05-02 11:50:57] : Latihan un
+[2017-05-02 11:50:57] < ★★ Dari total 65 siswa, 33 siswa senang makan baso, 22 siswa senang makan gado-gado, dan 12 senang keduanya. Banyak siswa yang tidak senang makan baso maupun makan gado-gado adalah ...
+[2017-05-02 11:51:41] : 23
+[2017-05-02 11:51:42] < Bukan, coba lagi
+[2017-05-02 11:52:01] : 22
+[2017-05-02 11:52:01] < Betul! (smile)
+[2017-05-02 11:52:02] < Selamat! berikutnya kalau dapat soal tentang Irisan Himpunan lagi siap-siap yang agak susah yah? :)
+[2017-05-02 11:52:04] < Siap utk soal berikutnya...
+[2017-05-02 11:52:07] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 700 ribu jika ingin mendapat keuntungan sebesar 30% ?
+[2017-05-02 11:52:57] : 910000
+[2017-05-02 11:52:57] < Coba lagi
+[2017-05-02 11:56:22] : 210000
+[2017-05-02 11:56:22] < Bukan itu
+[2017-05-02 11:56:30] : Next
+[2017-05-02 11:56:31] < ★ Diketahui 3(x-10) = 5x. Nilai dari x adalah ...
+[2017-05-02 11:56:54] : 15
+[2017-05-02 11:56:55] < Masih belum betul
+[2017-05-02 11:57:00] : -15
+[2017-05-02 11:57:00] < Betul! (smile)
+[2017-05-02 11:57:01] < Selamat! berikutnya kalau dapat soal tentang Aljabar lagi siap-siap yang agak susah yah? :)
+[2017-05-02 11:57:03] < Siap utk soal berikutnya...
+[2017-05-02 11:57:06] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 500 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-05-02 11:57:51] : 510000
+[2017-05-02 11:57:51] < Bukan itu
+[2017-05-02 11:58:12] : 600.000
+[2017-05-02 11:58:13] < Betul! (smile)
+[2017-05-02 11:58:13] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-05-02 11:58:15] < Siap utk soal berikutnya...
+[2017-05-02 11:58:18] < ★★ Jika U5 + U12 + U10 = 84, maka suku ke-9 barisan aritmatika tersebut adalah ...
+[2017-05-02 11:58:24] : Next
+[2017-05-02 11:58:25] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=3caf28} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-05-02 11:59:02] : Next
+[2017-05-02 11:59:03] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=453530} Keliling daerah yang diwarnai adalah aπ. Berapakah a?
+[2017-05-02 12:16:57] : Bisa konsul ga?
+[2017-05-02 12:16:57] < Jangan putus asa

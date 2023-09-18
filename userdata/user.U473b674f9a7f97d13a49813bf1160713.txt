@@ -1,0 +1,167 @@
+[2017-03-29 11:09:35.42500] : Halo
+[2017-03-29 11:09:35.29231] < halo juga
+[2017-03-29 11:09:41.24783] : Kasih soal lagi dong
+[2017-03-29 11:10:52.75787] : Kasih soal lagi dong
+[2017-03-29 11:10:53.47652] < Diketahui 2(x-6) = 5x. Nilai dari x adalah ...
+[2017-03-29 11:10:58.87088] < hi Elfan
+[2017-03-29 11:11:26.29382] : Kasih soal lagi dong
+[2017-03-29 11:11:27.14320] < Gradien persamaan garis yang melalui titik (0, -1) dan (-3, 2) adalah ...
+[2017-03-29 11:19:26.80545] : Nyerah
+[2017-03-29 11:19:27.19094] < jawabannya -3/3
+[2017-03-29 11:22:49.03757] : Soal
+[2017-03-29 11:23:07.58860] : Soal
+[2017-03-29 11:23:08.65729] < Suku ke-2 dan suku ke-4 suatu barisan aritmatika berturut-turut adalah 4 dan 10. Suku ke-6 barisan tersebut adalah ...
+[2017-03-29 11:24:38.70236] : Soal pekerja
+[2017-03-29 11:24:39.80377] < Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-03-29 11:24:51.13759] : Soal pekerja
+[2017-03-29 11:24:52.16226] < Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika ada tambahan pekerja sebanyak 1 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-03-29 11:24:56.56090] : Nyerah
+[2017-03-29 11:24:57.38845] < coba jawab dulu
+[2017-03-29 11:25:00.71138] : Nyerah
+[2017-03-29 11:25:01.05409] < coba jawab dulu
+[2017-03-29 11:25:36.62723] : 7
+[2017-03-29 11:25:37.13288] < coba lagi
+[2017-03-29 11:25:38.32806] : 5
+[2017-03-29 11:25:38.81436] < bukan
+[2017-03-29 11:25:39.26087] < coba lagi
+[2017-03-29 11:25:39.59625] : 8
+[2017-03-29 11:25:39.98550] < coba lagi
+[2017-03-29 11:25:41.32748] : 6
+[2017-03-29 11:25:41.82395] < coba lagi
+[2017-03-29 11:25:42.52467] < hi Elfan
+[2017-03-29 11:25:43.35319] : 7
+[2017-03-29 11:25:43.91999] < coba lagi
+[2017-03-29 11:25:45.16360] : 4
+[2017-03-29 11:25:45.71559] < tebak-tebakan aja ya?
+[2017-03-29 11:25:46.78368] : 8
+[2017-03-29 11:25:47.27503] < bukan
+[2017-03-29 11:25:47.29032] < coba dihitung dulu sebelum jawab
+[2017-03-29 11:25:47.67262] < coba lagi
+[2017-03-29 11:25:50.95743] : Nyerah
+[2017-03-29 11:25:51.38170] < jangan nyerah, coba dulu
+[2017-03-29 11:25:54.30485] : 8
+[2017-03-29 11:25:54.81617] < coba lagi
+[2017-03-29 11:25:56.70009] < hi Elfan
+[2017-03-29 11:25:56.92033] : 6
+[2017-03-29 11:25:57.53473] < coba lagi
+[2017-03-29 11:25:59.48669] : Nyerah
+[2017-03-29 11:25:59.97403] < jangan nyerah, coba dulu
+[2017-03-29 11:26:00.17010] < hi Elfan
+[2017-03-29 11:26:04.74498] : Apa kuncinya
+[2017-03-29 11:26:05.81321] < hi Elfan
+[2017-03-29 11:26:09.05437] : Apa jawabnya
+[2017-03-29 11:26:09.48685] < jangan nyerah, coba dulu
+[2017-03-29 11:26:10.02744] < hi Elfan
+[2017-03-29 11:26:27.81542] : 7
+[2017-03-29 11:26:28.33607] < bukan
+[2017-03-29 11:26:28.67626] < coba lagi
+[2017-03-29 11:26:28.92625] : 5
+[2017-03-29 11:26:29.37707] < bukan
+[2017-03-29 11:26:29.75237] < coba lagi
+[2017-03-29 11:26:30.87269] : 8
+[2017-03-29 11:26:30.72640] < coba lagi
+[2017-03-29 11:26:31.48471] : 5
+[2017-03-29 11:26:31.94235] < bukan
+[2017-03-29 11:26:32.24977] < coba lagi
+[2017-03-29 11:26:37.79771] : Apa jawabnya
+[2017-03-29 11:26:38.63832] < jawabannya 2
+[2017-03-29 11:26:41.43641] < Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-03-29 11:28:15.61409] : 7
+[2017-03-29 11:28:17.02842] : 5
+[2017-03-29 11:28:17.92180] : 8
+[2017-03-29 11:28:31.40624] : 6
+[2017-03-29 11:28:32.92792] < jangan menyerah
+[2017-03-29 11:28:43.99270] : 4
+[2017-03-29 11:28:57.12438] : y
+[2017-03-29 11:29:00.57989] : 7
+[2017-03-29 11:29:00.99276] < coba lagi
+[2017-03-29 11:29:02.40881] < hi Elfan
+[2017-03-29 11:29:05.05129] : 5
+[2017-03-29 11:29:05.60799] < bukan, coba lagi
+[2017-03-29 11:29:06.89175] : 9
+[2017-03-29 11:29:06.93615] < jangan menyerah
+[2017-03-29 11:29:07.44440] < bukan, coba lagi
+[2017-03-29 11:29:08.87292] : 6
+[2017-03-29 11:29:09.37429] < coba lagi
+[2017-03-29 11:29:10.84549] : 7
+[2017-03-29 11:29:10.93222] < tebak-tebakan aja ya?
+[2017-03-29 11:29:13.42286] : Nyerah
+[2017-03-29 11:29:14.17026] < jawabannya 3
+[2017-03-29 11:29:17.02385] < Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-03-29 11:29:22.42626] < hi Elfan
+[2017-03-29 11:42:37.67930] : Hi juga
+[2017-03-29 11:42:38.08830] < hi juga
+[2017-03-29 11:44:56.06232] : Skor
+[2017-03-29 11:44:56.34060] < 1
+[2017-03-29 11:45:08.35767] : 1
+[2017-03-29 11:45:08.97113] < hebat!
+[2017-03-29 11:45:11.80253] < Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-03-29 11:45:13.09526] < hi Elfan
+[2017-03-29 11:45:58.21896] : Skor
+[2017-03-29 11:45:58.53344] < 2
+[2017-03-29 11:46:06.40808] : Poin
+[2017-03-29 11:46:06.97047] < kamu udah berhasil jawab 2 soal
+[2017-03-29 11:46:14.00864] : Nilai
+[2017-03-29 11:46:14.31001] < 2
+[2017-03-29 11:46:44.09386] : K
+[2017-03-29 11:46:47.68034] : Kak
+[2017-03-29 11:46:48.14543] < iya?
+[2017-03-29 11:46:58.74299] : Punya soal ngga?
+[2017-03-29 11:46:59.83647] < Jika suku ke-1 adalah 3 dan suku ke-3 adalah 9, maka suku-4 dalam barisan aritmatika tersebut adalah ...
+[2017-03-29 11:47:15.53344] : Soal tentang garis
+[2017-03-29 11:47:16.80388] < Persamaan garis yang melalui titik (-1, 2) dan (3, -2) adalah ax + by = c. Berapakah a + b + c?
+[2017-03-29 11:48:06.90952] : Yg gampang
+[2017-03-29 11:48:07.94726] < Persamaan garis yang melalui titik (-3, 1) dan (-2, -3) adalah ax + by = c. Berapakah a + b + c?
+[2017-03-29 11:50:23.71260] : Siapa saya
+[2017-03-29 11:50:24.13893] < Elfan
+[2017-03-29 23:38:18.95743] : Star
+[2017-03-29 23:42:15.60137] : Star
+[2017-03-29 23:42:26.70198] : Star
+[2017-03-29 23:42:28.19017] < hi Elfan
+[2017-03-29 23:42:30.27979] : Star
+[2017-03-29 23:45:16.47932] : Star
+[2017-03-29 23:47:21.36541] : Star
+[2017-03-29 23:47:24.24107] < hi Elfan
+[2017-03-29 23:49:06.81727] : Star
+[2017-03-30 00:13:28.21282] : Star
+[2017-03-30 00:16:51.75046] : Star
+[2017-03-30 00:20:16.76142] : Star
+[2017-03-30 00:20:18.24303] < hi Elfan
+[2017-03-30 00:20:31.52549] : Star
+[2017-03-30 00:21:00.21536] : Star
+[2017-03-30 00:24:52.66900] : Star
+[2017-03-30 00:25:36.85646] : Star
+[2017-03-30 00:25:50.79084] : Star
+[2017-03-30 00:27:08.75990] : Star
+[2017-03-30 00:27:18.91393] : Star
+[2017-03-30 01:50:56.74886] : Tes
+[2017-03-30 01:50:57.17402] < 1 2 3
+[2017-03-30 01:52:54.34155] < Hai
+[2017-03-30 01:53:14.75902] : Halo
+[2017-03-30 01:53:55.57469] : Halo
+[2017-03-30 01:53:55.92771] < Halo juga
+[2017-03-30 02:00:29.93339] < Hai
+[2017-03-30 02:00:41.13770] : Halo
+[2017-03-30 02:08:20.11943] : Halo
+[2017-03-30 02:08:21.38430] < Halo juga
+[2017-03-30 02:09:38.12780] : Ulangi
+[2017-03-30 02:09:39.05209] < ★ Persamaan garis yang melalui titik (-3, 1) dan (-2, -3) adalah ax + by = c. Berapakah a + b + c?
+[2017-03-30 02:10:46.62133] : Km siapa
+[2017-03-30 02:10:47.05767] < Bang UN
+[2017-03-30 02:10:58.87107] : Jhgvhfhjjshshdgdjddjdjdhdhdhdgdhdhdjdhdgsjshsnsjshshsjsshsghsjshdhd
+[2017-03-30 02:11:27.87804] : Jhgvhfhjjshshdgdjddjdjdhdhdhdgdhdhdjdhdgsjshsnsjshshsjsshsghsjshdhdhhfvhjggghhgfhhhgghjhgbjjjk
+[2017-03-30 03:10:33.93821] < Hai Elfan
+[2017-03-30 03:10:44.06114] : Hai
+[2017-03-30 03:10:46.46174] < Mau latihan soal matematika?
+[2017-03-30 03:10:51.90442] : Iya
+[2017-03-30 03:12:30.80599] : Iya
+[2017-03-30 03:12:36.50776] : Mau
+[2017-03-30 03:13:29.26223] < Hai Elfan
+[2017-03-30 03:13:35.16191] : Hai
+[2017-03-30 03:13:37.93015] < Mau latihan soal matematika?
+[2017-03-30 03:13:42.69945] : Iya
+[2017-03-30 03:13:43.21258] < Ok, siap ya...
+[2017-03-30 03:13:46.06983] < ★ Ada 19 siswa dimana 8 siswa senang makan bubur ayam, 4 siswa senang makan gado-gado, dan 2 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-03-30 06:45:10.58907] < siap
+[2017-03-30 06:49:42.29499] < Silakan nanti coba lagi yah
+[2017-03-31 02:27:45] ! unfollow

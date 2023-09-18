@@ -1,0 +1,32 @@
+[2017-04-02 09:28:16] ! new follower
+[2017-04-02 09:28:18] < Hai
+[2017-04-02 09:28:32] : Jga
+[2017-04-02 09:28:32] < Saya ngga tau harus jawab apa
+[2017-04-02 09:28:42] : Hah
+[2017-04-02 09:28:42] < :)
+[2017-04-02 09:29:01] : Ko senyum
+[2017-04-02 09:29:01] < Itu juga saya ngga ngerti
+[2017-04-02 09:29:18] : 3-5
+[2017-04-02 09:29:19] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"kasih petunjuk",
+"berapa skor saya?",
+"usul topik perkalian"
+[2017-04-02 09:49:14] : Ok
+[2017-04-02 09:49:15] < ?
+[2017-04-02 09:49:28] : 1-1 brpa
+[2017-04-03 12:08:56] : Latian
+[2017-04-03 12:09:51] : Soal
+[2017-04-03 12:09:51] < ★ Leo membeli televisi seharga Rp 600 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-03 12:10:24] : Tolong
+[2017-04-03 12:10:24] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"kasih petunjuk",
+"berapa skor saya?",
+"usul topik perkalian"

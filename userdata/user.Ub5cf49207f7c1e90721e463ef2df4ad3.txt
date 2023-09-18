@@ -1,0 +1,339 @@
+[2017-04-09 07:03:41] ! new follower
+[2017-04-09 07:03:42] < Hai
+[2017-04-09 07:03:47] : Hai
+[2017-04-09 07:03:49] < Nama kamu siapa?
+[2017-04-09 07:03:56] : Mira
+[2017-04-09 07:03:56] < Ok Mira
+[2017-04-09 07:03:57] < Mau latihan soal matematika?
+[2017-04-09 07:04:02] : Mau
+[2017-04-09 07:04:04] < Ok, siap ya...
+[2017-04-09 07:04:05] < ★ Gradien persamaan garis yang melalui titik (2, 2) dan (-2, -3) adalah ...
+[2017-04-09 07:07:56] : -5/4
+[2017-04-09 07:07:57] < Bukan
+[2017-04-09 07:08:07] : Jawabannya apa?
+[2017-04-09 07:08:07] < Jawabannya 5/4
+[2017-04-09 07:08:09] < Selanjutnya...
+[2017-04-09 07:08:12] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=b3ed4} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 07:13:57] : 97,56
+[2017-04-09 07:13:58] < Jawabannya dalam bilangan bulat, contoh: 4
+[2017-04-09 07:13:58] < Coba lagi
+[2017-04-09 07:14:25] : 97.56
+[2017-04-09 07:14:26] < Jawabannya dalam bilangan bulat, contoh: 9
+[2017-04-09 07:14:26] < Coba lagi
+[2017-04-09 07:14:39] : 98
+[2017-04-09 07:14:39] < Bukan
+[2017-04-09 07:18:05] : Jawabannya berapa?
+[2017-04-09 07:18:06] < Maaf, saya ngga ngerti
+[2017-04-09 07:18:14] : Hm :(
+[2017-04-09 07:18:14] < Itu juga saya ngga ngerti
+[2017-04-09 07:18:34] : Jawabanya apa?
+[2017-04-09 07:18:35] < Yang betul adalah 32
+[2017-04-09 07:18:36] < Siap buat soal berikutnya...
+[2017-04-09 07:18:40] < ★ Gradien persamaan garis yang melalui titik (-3, 3) dan (2, 1) adalah ...
+[2017-04-09 07:18:43] : Caranya?
+[2017-04-09 07:18:43] < Rumus persamaan garis adalah y-y1 = m(x-x1) dimana gradien m = (y2-y1) / (x2-x1)
+[2017-04-09 07:18:59] : Cara untuk soal sebelumnya?
+[2017-04-09 07:19:00] < ★ Gradien persamaan garis yang melalui titik (2, -2) dan (-1, -1) adalah ...
+[2017-04-09 07:20:03] : -3
+[2017-04-09 07:20:04] < Jawabannya dalam bentuk pecahan, contoh: 2/5
+[2017-04-09 07:20:04] < Coba lagi
+[2017-04-09 07:21:00] : Jawabannya apa?
+[2017-04-09 07:21:02] < Coba dulu dijawab
+[2017-04-09 07:21:37] : 1/-3
+[2017-04-09 07:21:37] < -0,3333
+[2017-04-09 07:21:53] : Ya
+[2017-04-09 07:21:53] < Saya ngga tau harus jawab apa
+[2017-04-09 07:22:00] : Ini otomatis?
+[2017-04-09 07:22:00] < :)
+[2017-04-09 07:22:04] : Ipa
+[2017-04-09 07:22:05] < Saat ini hanya ada soal matematika aja
+[2017-04-09 07:22:10] < Kamu bisa minta "ganti" soal atau "nyerah" kalau yang ini susah
+[2017-04-09 07:22:22] : Ganti
+[2017-04-09 07:22:25] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 400 ribu jika ingin mendapat keuntungan sebesar 30% ?
+[2017-04-09 07:23:03] : 520 ribu
+[2017-04-09 07:23:07] < (amazed) Ya! Betul Mira, langsung terjawab
+[2017-04-09 07:23:11] < Siap lagi...
+[2017-04-09 07:23:15] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 07:23:48] : 2
+[2017-04-09 07:23:50] < (amazed) Ya! Betul Mira
+[2017-04-09 07:23:55] < Soal berikutnya...
+[2017-04-09 07:23:59] < ★ 9 siswa senang makan baso, dan sebagian di antaranya juga senang makan gado-gado. Siswa yang hanya senang makan gado-gado saja ada 3, dan siswa yang tidak senang keduanya ada 9. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 07:26:23] : 21
+[2017-04-09 07:26:24] < (amazed) Hebat Mira!, langsung terjawab
+[2017-04-09 07:26:24] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 07:26:26] < Siap lagi...
+[2017-04-09 07:26:29] < ★ 6 siswa senang Bahasa Indonesia, dan sebagian di antaranya juga senang Bahasa Inggris. Siswa yang hanya senang Bahasa Inggris saja ada 2, dan siswa yang tidak senang keduanya ada 2. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 07:26:31] : Skor
+[2017-04-09 07:26:32] < 3
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 07:26:39] : Rincian skor
+[2017-04-09 07:26:40] < Total menjawab 3 soal
+★6, ★★, ★★★
+Irisan Himpunan = 2
+Persen = 2
+Rasio = 2
+[2017-04-09 07:27:15] : 10
+[2017-04-09 07:27:16] < (amazed) Ya! Betul Mira, langsung terjawab
+[2017-04-09 07:27:18] < Siap utk soal berikutnya...
+[2017-04-09 07:27:21] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=abae0} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 07:28:12] : 50.24
+[2017-04-09 07:28:12] < Coba lagi
+[2017-04-09 07:29:15] : 50,24
+[2017-04-09 07:29:15] < Bukan, coba lagi
+[2017-04-09 07:29:22] : Cara
+[2017-04-09 07:29:22] < :)
+[2017-04-09 07:29:26] : Cara?
+[2017-04-09 07:29:26] < :)
+[2017-04-09 07:29:30] : Caranya
+[2017-04-09 07:29:29] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 07:29:52] : 25,12
+[2017-04-09 07:29:52] < Masih belum betul
+[2017-04-09 07:34:30] : Jawaban
+[2017-04-09 07:34:30] < :)
+[2017-04-09 07:34:35] : Jawabannya apa?
+[2017-04-09 07:34:35] < Jawabannya adalah 13,42
+[2017-04-09 07:34:37] < Siap buat soal berikutnya...
+[2017-04-09 07:34:40] < ★ Jika suku ke-2 adalah 5 dan suku ke-3 adalah 7, maka suku-5 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 07:38:35] : 11
+[2017-04-09 07:38:36] < (clap) Hebat Mira!
+[2017-04-09 07:38:38] < Siap lagi...
+[2017-04-09 07:38:41] < ★ Diketahui 5(x+2) = 4x. Nilai dari x adalah ...
+[2017-04-09 07:40:14] : -10
+[2017-04-09 07:40:15] < (amazed) Ya! Betul Mira, langsung terjawab
+[2017-04-09 07:40:16] < Soal selanjutnya...
+[2017-04-09 07:40:20] < ★ Gradien persamaan garis yang melalui titik (2, 1) dan (-1, 3) adalah ...
+[2017-04-09 07:41:06] : -2/3
+[2017-04-09 07:41:06] < (clap) Ya! Betul Mira, langsung terjawab
+[2017-04-09 07:41:08] < Selanjutnya...
+[2017-04-09 07:41:12] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-09 07:41:19] : 2
+[2017-04-09 07:41:20] < Bukan, coba lagi
+[2017-04-09 07:41:42] : 1
+[2017-04-09 07:41:43] < Betul! (smile)
+[2017-04-09 07:41:45] < Selanjutnya...
+[2017-04-09 07:41:49] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 07:42:25] : 4
+[2017-04-09 07:42:26] < (amazed) Hebat Mira!, langsung terjawab
+[2017-04-09 07:42:28] < Selanjutnya...
+[2017-04-09 07:42:31] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=a277e} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 07:45:49] : 12,56
+[2017-04-09 07:45:49] < Coba lagi
+[2017-04-09 07:46:17] : Nyerah
+[2017-04-09 07:46:18] < Yang betul adalah 25,12
+[2017-04-09 07:46:19] < Soal selanjutnya...
+[2017-04-09 07:46:22] < ★ Gradien persamaan garis yang melalui titik (-3, -2) dan (-2, -1) adalah ...
+[2017-04-09 07:51:23] : Nyerah
+[2017-04-09 07:51:24] < Coba kamu jawab dulu
+[2017-04-09 07:51:29] : Gak mau
+[2017-04-09 07:51:29] < Jangan menyerah
+[2017-04-09 07:51:33] : Ah
+[2017-04-09 07:51:33] < Saya ngga tau harus jawab apa
+[2017-04-09 07:51:46] : 1
+[2017-04-09 07:51:47] < (amazed) Ya! Betul Mira
+[2017-04-09 07:51:49] < Soal berikutnya...
+[2017-04-09 07:51:53] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 1 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 07:51:58] : HAHAHHAHAHA ITU ASAL TEKEN
+[2017-04-09 07:51:58] < ?
+[2017-04-09 08:00:04] : 4
+[2017-04-09 08:00:04] < (yes) Hebat Mira!, langsung terjawab
+[2017-04-09 08:00:07] < Soal berikutnya...
+[2017-04-09 08:00:10] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 600 ribu jika ingin mendapat keuntungan sebesar 10% ?
+[2017-04-09 08:00:21] : Bahasa inggris
+[2017-04-09 08:00:22] < Sekarang hanya matematika aja
+[2017-04-09 08:00:39] : 660
+[2017-04-09 08:00:39] < (amazed) Hebat Mira!
+[2017-04-09 08:00:39] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 08:00:41] < Soal berikutnya...
+[2017-04-09 08:00:44] : Skor
+[2017-04-09 08:00:44] < Kamu udah menjawab 12 soal
+[2017-04-09 08:00:45] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 400 ribu jika ingin mendapat keuntungan sebesar 30% ?
+[2017-04-09 08:01:06] : 520
+[2017-04-09 08:01:06] < (clap) Hebat Mira!
+[2017-04-09 08:01:08] < Soal berikutnya...
+[2017-04-09 08:01:11] < ★ Gradien persamaan garis yang melalui titik (3, 3) dan (1, -3) adalah ...
+[2017-04-09 08:01:16] : Lain
+[2017-04-09 08:01:17] < Saya ngga tau harus bilang apa
+[2017-04-09 08:01:23] : Ganti
+[2017-04-09 08:01:24] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-09 08:01:32] : 2
+[2017-04-09 08:01:32] < Coba lagi
+[2017-04-09 08:01:34] : 1
+[2017-04-09 08:01:34] < Betul! (smile)
+[2017-04-09 08:01:37] < Siap utk soal berikutnya...
+[2017-04-09 08:01:40] < ★ Jika suku ke-2 adalah 6 dan suku ke-4 adalah 12, maka suku-5 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 08:01:50] : Stop
+[2017-04-09 08:01:50] < Saya ngga tau harus jawab apa
+[2017-04-09 08:02:06] : Terimakasih
+[2017-04-09 08:02:06] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 08:53:23] : Ok
+[2017-04-09 08:53:24] < Masih ngga ngerti
+[2017-04-09 08:53:28] : Gpp
+[2017-04-09 08:53:29] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 08:53:40] : Ada topik apa aja?
+[2017-04-09 08:53:41] < Ada topik tentang Barisan Aritmatika, Irisan Himpunan, Aljabar, Rasio, Persamaan Garis, Persen, Lingkaran
+[2017-04-09 08:53:55] : Berapa 1+1
+[2017-04-09 08:53:55] < 2
+[2017-04-09 08:54:05] : Berapa 2+3
+[2017-04-09 08:54:05] < 5
+[2017-04-09 08:54:14] : Berapa 13+5
+[2017-04-09 08:54:15] < 18
+[2017-04-09 08:54:25] : Berapa 5438+1114
+[2017-04-09 08:54:25] < 6552
+[2017-04-09 08:54:50] : Berapa 2345+54321
+[2017-04-09 08:54:51] < 56666
+[2017-04-09 08:55:39] : Berapa 2321+3213
+[2017-04-09 08:55:39] < 5534
+[2017-04-09 08:55:41] : Berapa 7758+1119
+[2017-04-09 08:55:42] < 8877
+[2017-04-09 08:55:49] : Berapa 1×1
+[2017-04-09 08:55:50] < Saya ngga tau harus bilang apa
+[2017-04-09 09:00:28] : Rumusnya apa?
+[2017-04-09 09:00:28] < Rumus suku ke-n adalah Un = U1 + (n-1)b, dimana b adalah besarnya selisih antara dua suku berurutan, dan selisihnya selalu sama. Un itu artinya suku ke-n, U1 itu suku ke-1. Contoh, jika suku ke-2 adalah 5 dan suku ke-4 adalah 11, artinya selisihnya adalah (11 - 5) / (4 - 2) = 3
+[2017-04-09 09:00:31] : Soal tentang aljabar yang susah
+[2017-04-09 09:00:32] < ★★★ Diketahui 10(x-6)+2 = 9(x-9)+19. Nilai dari x-10 adalah ...
+[2017-04-09 09:03:13] : Berapa 1-3
+[2017-04-09 09:03:13] < -2
+[2017-04-09 09:06:14] : Mau
+[2017-04-09 09:06:15] < :)
+[2017-04-09 09:06:17] : Mira
+[2017-04-09 09:06:17] < ?
+[2017-04-09 09:06:22] : Nama mu siapa?
+[2017-04-09 09:06:22] < Nama saya Dhiqa
+[2017-04-09 09:06:29] : Umur mu berapa?
+[2017-04-09 09:06:29] < Saya ngga tau harus jawab apa
+[2017-04-09 09:06:35] : Umur?
+[2017-04-09 09:06:35] < Maaf, pemahaman saya masih terbatas
+[2017-04-09 09:06:47] : Sekolah dimana?
+[2017-04-09 09:06:48] < Di awan
+[2017-04-09 09:06:49] < Kalau kamu di mana?
+[2017-04-09 09:06:59] : Di Sidemen
+[2017-04-09 09:06:59] < Oh di Sidemen
+[2017-04-09 09:07:15] : Iya
+[2017-04-09 09:07:15] < :)
+[2017-04-09 09:07:18] : :)
+[2017-04-09 09:07:19] < Itu juga saya ngga ngerti
+[2017-04-09 09:07:40] : Udah makan
+[2017-04-09 09:07:40] < Masih ngga ngerti
+[2017-04-09 09:07:44] : Udah makan?
+[2017-04-09 09:07:44] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 09:07:48] : Haha
+[2017-04-09 09:07:48] < ?
+[2017-04-09 09:13:15] : Punya pacar?
+[2017-04-09 09:13:23] : Huh?
+[2017-04-09 09:13:29] : Krik
+[2017-04-09 09:13:35] : Skor
+[2017-04-09 09:13:35] < Skor kamu 14
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 09:13:44] : Makasi
+[2017-04-09 09:13:44] < Maaf, saya ngga ngerti
+[2017-04-09 09:13:48] : Gpp
+[2017-04-09 09:13:48] < Itu juga saya ngga ngerti
+[2017-04-09 09:13:51] : 😍
+[2017-04-09 09:13:51] < Masih ngga ngerti
+[2017-04-09 09:13:55] : (1240203,9745945)
+[2017-04-09 09:13:56] < Yang bisa saya mengerti misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 09:13:58] : (2,176)
+[2017-04-09 09:13:58] < ?
+[2017-04-09 12:26:58] : Halo
+[2017-04-09 12:26:58] < Halo juga
+[2017-04-09 12:26:59] < Mau latihan soal matematika?
+[2017-04-09 12:27:01] : Hi
+[2017-04-09 12:27:01] < Hi juga
+[2017-04-09 12:27:02] < Mau latihan soal matematika?
+[2017-04-09 12:27:05] : Hay
+[2017-04-09 12:27:05] < Maaf, saya ngga ngerti
+[2017-04-09 12:27:10] : Halo
+[2017-04-09 12:27:10] < Halo juga
+[2017-04-09 12:27:11] < Mau latihan soal matematika?
+[2017-04-09 12:27:14] : Mau
+[2017-04-09 12:27:16] < Ok, siap ya...
+[2017-04-09 12:27:17] < ★★★ Diketahui -3(x-7)+5 = 4(x-1)+86. Nilai dari x-9 adalah ...
+[2017-04-09 12:30:14] : Berapa x+x
+[2017-04-09 12:30:14] < ★★★ Diketahui -9(x-3)+8 = 4(x-5)-75. Nilai dari x+1 adalah ...
+[2017-04-09 12:30:22] : Berapa 2-3
+[2017-04-09 12:30:22] < -1
+[2017-04-23 03:20:14] : Hi
+[2017-04-23 03:20:15] < Hi juga
+[2017-04-23 03:20:21] : Lagi apa?
+[2017-04-23 03:20:21] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-23 03:20:25] : Kok?
+[2017-04-23 03:20:26] < ?
+[2017-04-23 03:20:29] : Eh
+[2017-04-23 03:20:29] < Itu juga saya ngga ngerti
+[2017-04-23 03:20:35] : Nama mu siapa?
+[2017-04-23 03:20:35] < Nama saya Dhiqa
+[2017-04-23 03:20:39] : Umur?
+[2017-04-23 03:20:39] < Saya ngga tau harus jawab apa
+[2017-04-23 03:20:41] : Asal?
+[2017-04-23 03:20:41] < Maaf, pemahaman saya masih terbatas
+[2017-04-23 03:20:49] : Kami asalnya darimana?
+[2017-04-23 03:20:49] < Di awan
+[2017-04-23 03:20:55] : Awan?
+[2017-04-23 03:20:55] < Maaf, saya ngga ngerti
+[2017-04-23 03:20:59] : Awan dimana?
+[2017-04-23 03:20:59] < Di awan
+[2017-04-23 03:21:03] : Aku mira
+[2017-04-23 03:21:03] < Saya ngga tau harus bilang apa
+[2017-04-23 03:21:07] : Aku mira
+[2017-04-23 03:21:07] < Maaf, pemahaman saya masih terbatas
+[2017-04-23 03:21:08] : Hy
+[2017-04-23 03:21:08] < :)
+[2017-04-23 03:21:09] : Hy
+[2017-04-23 03:21:09] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-23 03:21:11] : Hy
+[2017-04-23 03:21:21] : Usul topik perkalian
+[2017-04-23 03:21:22] < Ok, ma kasih, nanti dipertimbangkan
+[2017-04-23 03:21:22] < Kalau ada masalah atau mau tanya-tanya, hubungi aja @enof pake LINE
+[2017-04-23 03:21:37] : Usul topik perbandingan
+[2017-04-23 03:21:37] < Ma kasih masukannya
+[2017-04-23 03:21:38] < Kalau ada masalah atau mau tanya-tanya, hubungi aja @enof pake LINE
+[2017-05-05 14:12:45] : Hy
+[2017-05-05 14:12:45] < Maaf, saya ngga ngerti
+[2017-05-05 14:12:46] : Ipa bisa?
+[2017-05-05 14:12:47] < Saat ini hanya ada matematik saja
+[2017-05-05 14:12:51] : Makasi
+[2017-05-05 14:12:52] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-06-25 21:32:54] : Hi
+[2017-06-25 21:32:56] < Hi juga
+[2017-06-25 21:32:58] : Ipa bisa?
+[2017-06-25 21:32:59] < Saat ini hanya soal matematik saja
+[2017-06-25 22:25:45] : Hi
+[2017-06-25 22:25:46] < Hi juga
+[2017-06-25 22:25:47] : Lagi apa?
+[2017-06-25 22:25:47] < Saya ngga tau harus jawab apa
+[2017-06-26 06:52:43] : V
+[2017-06-26 06:52:43] < Maaf, pemahaman saya masih terbatas
+[2017-06-27 09:20:45] : B
+[2017-06-27 09:20:46] < ?

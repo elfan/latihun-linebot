@@ -1,0 +1,20 @@
+[2017-03-30 11:05:06] ! join room
+[2017-03-30 11:05:07] : Tes
+[2017-03-30 11:05:08] < Tes juga
+[2017-03-30 11:05:10] < Hai
+[2017-03-30 11:05:45] : Soal
+[2017-03-30 11:05:46] < ★ 2 siswa senang menyanyi dan juga main musik, sedangkan 9 siswa tidak senang keduanya. Siswa yang hanya senang menyanyi saja ada 7, dan siswa yang senang main musik saja ada 2 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-03-30 11:06:52] : Daftar topik
+[2017-03-30 11:06:53] < Ada soal tentang Barisan Aritmatika, Irisan Himpunan, Aljabar, Rasio, Persamaan Garis, Persen
+[2017-03-30 11:06:54] < Kalau mau latihan soal topik tertentu, bilang aja "soal tentang rasio" misalnya
+[2017-03-30 11:06:57] < Trus, kalau mau usul topik, bilang aja "minta topik perkalian" misalnya
+[2017-03-30 11:07:27] : Soal
+[2017-03-30 11:07:28] < ★ Gradien persamaan garis yang melalui titik (2, -2) dan (-2, 0) adalah ...
+[2017-03-30 11:07:32] : 7
+[2017-03-30 11:07:33] < jawabannya dalam bentuk pecahan, contoh: 1/3
+[2017-03-30 11:07:34] < coba lagi
+[2017-03-30 11:09:01] : Helo
+[2017-03-30 11:09:01] < Helo juga
+[2017-03-30 11:09:04] < Nama kamu siapa?
+[2017-03-30 11:18:05] : Tes
+[2017-03-30 11:18:06] < 1 2 3

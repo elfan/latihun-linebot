@@ -1,0 +1,142 @@
+[2017-04-09 12:43:15] ! new follower
+[2017-04-09 12:43:17] < Hai
+[2017-04-09 12:43:34] : Hai
+[2017-04-09 12:43:35] < Nama kamu siapa?
+[2017-04-09 12:43:56] : Ninda rizky
+[2017-04-09 12:43:57] < Nama panggilannya satu kata aja
+[2017-04-09 12:44:14] : Ninda min hehe
+[2017-04-09 12:44:14] < Nama panggilannya satu kata aja
+[2017-04-09 12:44:20] : Ninda
+[2017-04-09 12:44:20] < Ooh, Ninda
+[2017-04-09 12:44:21] < Mau latihan soal matematika?
+[2017-04-09 12:44:29] : Mau min
+[2017-04-09 12:44:31] < Ok, siap ya...
+[2017-04-09 12:44:32] < ★ Gradien persamaan garis yang melalui titik (-1, 1) dan (3, 3) adalah ...
+[2017-04-09 12:45:46] : 1/2
+[2017-04-09 12:45:46] < Bukan
+[2017-04-09 12:46:10] : Trus apa min
+[2017-04-09 12:46:10] < Maaf, saya ngga ngerti
+[2017-04-09 12:46:18] : 1 per 2
+[2017-04-09 12:46:19] < ?
+[2017-04-09 12:46:54] : Jawabannya 1 per 2 bukan?
+[2017-04-09 12:46:55] < :)
+[2017-04-09 12:47:12] : Betul?
+[2017-04-09 12:47:12] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"rumusnya apa?",
+"berapa skor saya?",
+"usul topik perkalian",
+"berapa 1+1?"
+[2017-04-09 12:48:21] : Nanya soal?
+[2017-04-09 12:48:21] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika ada tambahan pekerja sebanyak 2 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-04-09 12:49:17] : 4 minggu
+[2017-04-09 12:49:18] < Bukan itu
+[2017-04-09 12:49:24] : 4
+[2017-04-09 12:49:24] < Bukan
+[2017-04-09 12:50:43] : Gatau
+[2017-04-09 12:50:43] < Ayo coba lagi
+[2017-04-09 12:50:44] < Kamu pasti bisa
+[2017-04-09 12:51:00] : Tolong jelasin
+[2017-04-09 12:51:00] < Saya ngga tau harus bilang apa
+[2017-04-09 12:51:17] : Rumusnya gimana
+[2017-04-09 12:51:18] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 12:51:53] : 1 minggu
+[2017-04-09 12:51:54] < Betul! (smile)
+[2017-04-09 12:51:56] < Siap utk soal berikutnya...
+[2017-04-09 12:51:59] < ★ Ada 12 siswa dimana 4 siswa senang makan nasi goreng, 5 siswa senang makan bubur ayam, dan 3 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 12:52:01] : Oke
+[2017-04-09 12:52:01] < Maaf, saya ngga ngerti
+[2017-04-09 12:54:15] : 6 orang
+[2017-04-09 12:54:15] < (yeah) Betul Ninda!
+[2017-04-09 12:54:18] < Siap lagi...
+[2017-04-09 12:54:21] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 12:55:45] : 3 hari
+[2017-04-09 12:55:45] < Coba lagi
+[2017-04-09 12:55:55] : 3 hari setengah
+[2017-04-09 12:55:55] < Bukan itu
+[2017-04-09 13:05:16] : Rumusnya apa
+[2017-04-09 13:05:16] < Rumusnya p1 x w1 = p2 x w2, yaitu banyaknya pekerjaan yg harus diselesaikan tetap sama meskipun jumlah pekerja dan waktunya berbeda
+[2017-04-09 13:08:49] : 2 minggu
+[2017-04-09 13:08:49] < Betul! (smile)
+[2017-04-09 13:08:49] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:08:52] < Siap utk soal berikutnya...
+[2017-04-09 13:08:55] < ★ Gradien persamaan garis yang melalui titik (0, 0) dan (-2, 1) adalah ...
+[2017-04-09 13:10:32] : -1 per 2
+[2017-04-09 13:10:32] < ?
+[2017-04-09 13:10:47] : -1/2
+[2017-04-09 13:10:47] < (clap) Ya! Betul Ninda
+[2017-04-09 13:10:50] < Siap lagi...
+[2017-04-09 13:10:53] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?
+[2017-04-09 13:11:17] : 2 minggu
+[2017-04-09 13:11:17] < (yeah) Hebat Ninda!, langsung terjawab
+[2017-04-09 13:11:18] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:11:20] < Selanjutnya...
+[2017-04-09 13:11:23] < ★ 3 siswa senang makan nasi goreng dan juga makan bubur ayam, sedangkan 5 siswa tidak senang keduanya. Siswa yang hanya senang makan nasi goreng saja ada 3, dan siswa yang senang makan bubur ayam saja ada 3 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 13:11:27] : Skor
+[2017-04-09 13:11:28] < Kamu udah menjawab 5 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 13:12:51] : 14 siswa
+[2017-04-09 13:12:52] < (yes) Hebat Ninda!, langsung terjawab
+[2017-04-09 13:12:54] < Soal berikutnya...
+[2017-04-09 13:12:57] : Rincian skor
+[2017-04-09 13:12:57] < Total menjawab 6 soal
+★12, ★★0, ★★★0
+Irisan Himpunan = 4
+Persamaan Garis = 2
+Rasio = 6
+[2017-04-09 13:12:58] < ★ Suku ke-2 dan suku ke-3 suatu barisan aritmatika berturut-turut adalah 6 dan 9. Suku ke-4 barisan tersebut adalah ...
+[2017-04-09 13:14:39] : 12
+[2017-04-09 13:14:40] < (yes) Betul Ninda!
+[2017-04-09 13:14:42] < Soal berikutnya...
+[2017-04-09 13:14:46] < ★ Jika suku ke-1 adalah 1 dan suku ke-4 adalah 7, maka suku-3 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 13:16:46] : 5
+[2017-04-09 13:16:46] < (amazed) Ya! Betul Ninda
+[2017-04-09 13:16:47] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:16:49] < Siap lagi...
+[2017-04-09 13:16:53] < ★ Gradien persamaan garis yang melalui titik (-3, 2) dan (-2, -1) adalah ...
+[2017-04-09 13:17:47] : -3
+[2017-04-09 13:17:48] < (amazed) Betul Ninda!, langsung terjawab
+[2017-04-09 13:17:50] < Soal selanjutnya...
+[2017-04-09 13:17:53] < ★ Ada 15 siswa dimana 6 siswa senang menyanyi, 5 siswa senang main musik, dan 3 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 13:19:46] : 7
+[2017-04-09 13:19:47] < (amazed) Betul Ninda!
+[2017-04-09 13:19:47] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:19:49] < Siap utk soal berikutnya...
+[2017-04-09 13:19:53] < ★ Gradien persamaan garis yang melalui titik (-3, -1) dan (-2, -2) adalah ...
+[2017-04-09 13:19:54] : Skor
+[2017-04-09 13:19:54] < Kamu udah berhasil menjawab 10 soal
+[2017-04-09 13:20:39] : -1
+[2017-04-09 13:20:40] < (yes) Hebat Ninda!
+[2017-04-09 13:20:40] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:20:43] < Soal selanjutnya...
+[2017-04-09 13:20:46] < ★ Gradien persamaan garis yang melalui titik (-3, -1) dan (3, 2) adalah ...
+[2017-04-09 13:21:03] : 1/6
+[2017-04-09 13:21:03] < Bukan, coba lagi
+[2017-04-09 13:21:22] : 1/2
+[2017-04-09 13:21:22] < Masih belum betul
+[2017-04-09 13:23:20] : 1 per 2
+[2017-04-09 13:23:20] < Maaf, saya ngga ngerti
+[2017-04-09 13:23:59] : 1/2
+[2017-04-09 13:24:00] < Masih belum betul
+[2017-04-09 13:24:27] : 3/6
+[2017-04-09 13:24:27] < Betul! (smile)
+[2017-04-09 13:24:29] < Soal berikutnya...
+[2017-04-09 13:24:33] < ★ Dari total 13 siswa, 6 siswa senang memanjat tebing, 5 siswa senang arung jeram, dan 3 senang keduanya. Banyak siswa yang tidak senang memanjat tebing maupun arung jeram adalah ...
+[2017-04-14 11:19:24] : Minta soal
+[2017-04-14 11:19:25] < ★ Gradien persamaan garis yang melalui titik (-1, -3) dan (1, 3) adalah ...
+[2017-04-14 11:19:45] : 3
+[2017-04-14 11:19:46] < (yes) Betul Ninda!
+[2017-04-14 11:19:46] < Selamat! berikutnya kalau dapat soal tentang Persamaan Garis lagi siap-siap yang agak susah yah? :)
+[2017-04-14 11:19:48] < Siap lagi...
+[2017-04-14 11:19:51] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=73abb8} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-14 11:21:09] : Rumusnya apa?
+[2017-04-14 11:21:09] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-14 11:22:36] : Jawabannya apa?
+[2017-04-14 11:22:37] < Coba kamu jawab dulu
+[2017-04-14 11:23:27] : 12,56
+[2017-04-14 11:23:28] < Masih belum betul
+[2017-04-14 11:46:53] : Rumus seluruhnya apa
+[2017-04-14 11:46:53] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π

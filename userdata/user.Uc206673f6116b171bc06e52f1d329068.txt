@@ -1,0 +1,37 @@
+[2017-04-02 12:03:15] ! new follower
+[2017-04-02 12:03:18] < Hai
+[2017-04-02 12:03:26] : Juga
+[2017-04-02 12:03:26] < :)
+[2017-04-02 12:03:28] : Latihan
+[2017-04-02 12:03:29] < ★ Diketahui 3(x+4) = 2x. Nilai dari x adalah ...
+[2017-04-02 12:03:34] : Gatau
+[2017-04-02 12:03:34] < :)
+[2017-04-02 12:03:36] : J
+[2017-04-02 12:03:37] < ?
+[2017-04-02 12:03:39] : Oi
+[2017-04-02 12:03:39] < :)
+[2017-04-02 12:03:42] : Apa
+[2017-04-02 12:03:42] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"kasih petunjuk",
+"berapa skor saya?",
+"usul topik perkalian"
+[2017-04-02 12:04:03] : Bikin soal aljabar
+[2017-04-02 12:04:03] < ★ Diketahui 4(x-2) = 3x. Nilai dari x adalah ...
+[2017-04-02 12:04:10] : 7
+[2017-04-02 12:04:10] < Coba lagi
+[2017-04-02 12:04:14] : 5
+[2017-04-02 12:04:15] < Bukan itu
+[2017-04-02 12:04:18] : 7
+[2017-04-02 12:04:18] < Coba lagi
+[2017-04-02 12:04:21] : 0
+[2017-04-02 12:04:21] < Bukan
+[2017-04-02 12:04:28] : Tidak tau
+[2017-04-02 12:04:28] < ?
+[2017-04-02 12:04:37] : Kasih petunjuk
+[2017-04-02 12:04:37] < Contoh yah, misalnya 4(x+5) = 2x, bisa diuraikan jadi 4x+20 = 2x.
+Lalu pindahkan x ke sisi kiri dan angka biasa ke sisi kanan, menjadi 4x-2x = -20, selanjutnya 2x = -20, jadi x = -10
+[2017-05-13 16:32:59] ! unfollow

@@ -1,0 +1,288 @@
+[2017-04-09 12:21:51] ! new follower
+[2017-04-09 12:21:53] < Hai
+[2017-04-09 12:22:08] : juga
+[2017-04-09 12:22:09] < Saya ngga tau harus jawab apa
+[2017-04-09 12:22:30] : Jadi
+[2017-04-09 12:22:30] < :)
+[2017-04-09 12:22:54] : Disini ada soal latihan un smp ya
+[2017-04-09 12:22:54] < ★ Ada 18 siswa dimana 8 siswa senang memanjat tebing, 4 siswa senang arung jeram, dan 2 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 12:23:26] : 6 siswa
+[2017-04-09 12:23:26] < Bukan, coba lagi
+[2017-04-09 12:23:44] : 14
+[2017-04-09 12:23:44] < Bukan, coba lagi
+[2017-04-09 12:23:57] : 10 siswa
+[2017-04-09 12:23:57] < Bukan
+[2017-04-09 12:24:16] : 4
+[2017-04-09 12:24:16] < Bukan, coba lagi
+[2017-04-09 12:24:26] : jadi berapa donk
+[2017-04-09 12:24:26] < Saya ngga tau harus bilang apa
+[2017-04-09 12:24:59] : 5 siswa
+[2017-04-09 12:24:59] < Coba lagi
+[2017-04-09 12:25:01] < Kamu bisa minta "ganti soal" atau "nyerah" kalau yang ini susah
+[2017-04-09 12:25:11] : Nyerah
+[2017-04-09 12:25:11] < Jawabannya adalah 8
+[2017-04-09 12:25:13] < Siap lagi...
+[2017-04-09 12:25:16] < ★ Gradien persamaan garis yang melalui titik (-2, -1) dan (1, 1) adalah ...
+[2017-04-09 12:25:30] : kok bisa 8
+[2017-04-09 12:25:30] < Maaf, saya ngga ngerti
+[2017-04-09 12:25:42] : Soal yang pertama kenapa jawabannya 8
+[2017-04-09 12:25:42] < ★ Jika suku ke-2 adalah 4 dan suku ke-6 adalah 12, maka suku-4 dalam barisan aritmatika tersebut adalah ...
+[2017-04-09 12:27:38] : 8
+[2017-04-09 12:27:39] < (amazed) Ya! Betul
+[2017-04-09 12:27:39] < Nama kamu siapa?
+[2017-04-09 12:27:45] : shella
+[2017-04-09 12:27:45] < Ooh, Shella
+[2017-04-09 12:27:46] < Mau latihan soal matematika?
+[2017-04-09 12:28:57] : boleh
+[2017-04-09 12:28:59] < Ok, siap ya...
+[2017-04-09 12:29:00] < ★ Toni membeli sepeda seharga Rp 700 ribu dan ia ingin mendapat untung 20%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 12:29:59] : 840.000
+[2017-04-09 12:30:00] < (yes) Hebat Shella!
+[2017-04-09 12:30:02] < Soal berikutnya...
+[2017-04-09 12:30:05] < ★ Diketahui 3(x+1) = 2x. Nilai dari x adalah ...
+[2017-04-09 12:30:27] : 3
+[2017-04-09 12:30:27] < Bukan, coba lagi
+[2017-04-09 12:30:56] : -3
+[2017-04-09 12:30:56] < Betul! (smile)
+[2017-04-09 12:30:59] < Siap lagi...
+[2017-04-09 12:31:02] < ★ Diketahui 2(x+8) = 4x. Nilai dari x adalah ...
+[2017-04-09 12:31:23] : 8
+[2017-04-09 12:31:24] < (yes) Ya! Betul Shella, langsung terjawab
+[2017-04-09 12:31:26] < Siap lagi...
+[2017-04-09 12:31:29] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika ada tambahan pekerja sebanyak 3 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-04-09 12:32:26] : 1
+[2017-04-09 12:32:27] < (clap) Hebat Shella!, langsung terjawab
+[2017-04-09 12:32:29] < Siap utk soal berikutnya...
+[2017-04-09 12:32:32] < ★ Feny membeli tas seharga Rp 600 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 12:33:08] : 6600000
+[2017-04-09 12:33:08] < Coba lagi
+[2017-04-09 12:34:02] : 6.600.000
+[2017-04-09 12:34:03] < Maaf, saya ngga ngerti
+[2017-04-09 12:34:15] : Rp6.600.000,00
+[2017-04-09 12:34:15] < :)
+[2017-04-09 12:34:30] : Rp6.600.000,00
+[2017-04-09 12:34:30] < ?
+[2017-04-09 12:34:37] : Nyerah
+[2017-04-09 12:34:37] < Jawabannya 660
+[2017-04-09 12:34:39] < Soal selanjutnya...
+[2017-04-09 12:34:42] < ★ Diketahui 2(x+12) = 5x. Nilai dari x adalah ...
+[2017-04-09 12:34:58] : 8
+[2017-04-09 12:34:59] < (yes) Betul Shella!
+[2017-04-09 12:35:01] < Soal berikutnya...
+[2017-04-09 12:35:04] < ★ Diketahui 2(x-8) = 4x. Nilai dari x adalah ...
+[2017-04-09 12:35:15] : -8
+[2017-04-09 12:35:15] < (yeah) Ya! Betul Shella, langsung terjawab
+[2017-04-09 12:35:17] < Selanjutnya...
+[2017-04-09 12:35:20] < ★ Ada 17 siswa dimana 4 siswa senang fisika, 7 siswa senang matematika, dan 2 senang keduanya. Banyak siswa yang tidak senang keduanya adalah ...
+[2017-04-09 12:35:26] : Soal yang dari erlangga dong min
+[2017-04-09 12:35:27] < ★ Gradien persamaan garis yang melalui titik (2, -3) dan (-2, -1) adalah ...
+[2017-04-09 12:35:40] : Soal yang dari erlangga dong min
+[2017-04-09 12:35:40] < ★ Diketahui 5(x-12) = 2x. Nilai dari x adalah ...
+[2017-04-09 12:36:10] : Hai
+[2017-04-09 12:36:10] < Hai juga
+[2017-04-09 12:36:32] : soal matematika
+[2017-04-09 12:36:32] < ★ 3 siswa senang memanjat tebing dan juga arung jeram, sedangkan 6 siswa tidak senang keduanya. Siswa yang hanya senang memanjat tebing saja ada 6, dan siswa yang senang arung jeram saja ada 2 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 12:41:28] : 11
+[2017-04-09 12:41:28] < Bukan, coba lagi
+[2017-04-09 12:41:55] : Nyerah
+[2017-04-09 12:41:55] < Nih, jawabannya 17
+[2017-04-09 12:41:56] < Selanjutnya...
+[2017-04-09 12:41:59] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=b3100} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:43:20] : 78,5
+[2017-04-09 12:43:20] < Bukan, coba lagi
+[2017-04-09 12:43:28] : Nyerah
+[2017-04-09 12:43:28] < Jangan nyerah, coba dulu
+[2017-04-09 12:44:04] : 5.785
+[2017-04-09 12:44:05] < Coba lagi
+[2017-04-09 12:44:09] : dsbhs
+[2017-04-09 12:44:09] < Saya ngga tau harus jawab apa
+[2017-04-09 12:44:15] : nyerah
+[2017-04-09 12:44:15] < Yang betul adalah 8,28
+[2017-04-09 12:44:17] < Soal selanjutnya...
+[2017-04-09 12:44:20] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika ada tambahan pekerja sebanyak 2 orang, maka pekerjaan itu akan selesai dalam berapa minggu?
+[2017-04-09 12:44:51] : 4
+[2017-04-09 12:44:52] < Masih belum betul
+[2017-04-09 12:45:12] : 2
+[2017-04-09 12:45:13] < Bukan
+[2017-04-09 12:45:17] : -4
+[2017-04-09 12:45:17] < Bukan
+[2017-04-09 12:45:25] : Nyerah
+[2017-04-09 12:45:26] < Jawabannya 1
+[2017-04-09 12:45:27] < Soal berikutnya...
+[2017-04-09 12:45:31] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=a0e42} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:46:25] : Soal?
+[2017-04-09 12:46:26] < ★ Suatu barisan aritmatika diketahui suku ke-2 adalah 5 dan suku ke-4 adalah 9, maka suku ke-6 adalah ...
+[2017-04-09 12:47:02] : 13
+[2017-04-09 12:47:03] < (clap) Hebat Shella!
+[2017-04-09 12:47:05] < Soal berikutnya...
+[2017-04-09 12:47:08] < ★ Gradien persamaan garis yang melalui titik (3, -1) dan (-3, 1) adalah ...
+[2017-04-09 12:47:36] : -1/3
+[2017-04-09 12:47:37] < Bukan
+[2017-04-09 12:48:09] : 1/3
+[2017-04-09 12:48:08] < Masih belum betul
+[2017-04-09 12:48:35] : Soal berikutnya
+[2017-04-09 12:48:35] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=85084} Keliling daerah yang diwarnai adalah aπ + b. Berapakah a + b ?
+[2017-04-09 12:49:03] : Soal
+[2017-04-09 12:49:03] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=ddb26} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:49:14] : 3,28
+[2017-04-09 12:49:14] < Bukan, coba lagi
+[2017-04-09 12:49:31] : Soal ipa woi
+[2017-04-09 12:49:31] < ★ Diketahui 3(x+2) = 2x. Nilai dari x adalah ...
+[2017-04-09 12:49:48] : 6
+[2017-04-09 12:49:49] < Coba lagi
+[2017-04-09 12:50:04] : -6
+[2017-04-09 12:50:04] < Betul! (smile)
+[2017-04-09 12:50:04] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:50:07] < Siap utk soal berikutnya...
+[2017-04-09 12:50:10] < ★ Diketahui 4(x-3) = 3x. Nilai dari x adalah ...
+[2017-04-09 12:50:10] : skor
+[2017-04-09 12:50:10] < Kamu udah berhasil menjawab 9 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-09 12:50:47] : rincian skor
+[2017-04-09 12:50:47] < Total menjawab 9 soal
+★18, ★★0, ★★★0
+Barisan Aritmatika = 4
+Persen = 2
+Aljabar = 10
+Rasio = 2
+[2017-04-09 12:51:06] : 12
+[2017-04-09 12:51:06] < (yes) Hebat Shella!
+[2017-04-09 12:51:06] < Selamat! berikutnya kalau dapat soal tentang Aljabar lagi siap-siap yang agak susah yah? :)
+[2017-04-09 12:51:08] < Soal selanjutnya...
+[2017-04-09 12:51:12] < ★ Gradien persamaan garis yang melalui titik (3, 2) dan (2, -3) adalah ...
+[2017-04-09 12:51:48] : 5
+[2017-04-09 12:51:48] < (amazed) Ya! Betul Shella, langsung terjawab
+[2017-04-09 12:51:48] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:51:51] < Selanjutnya...
+[2017-04-09 12:51:54] < ★★ Diketahui 7(x-6) = -4(x+5)+22. Nilai dari x+2 adalah ...
+[2017-04-09 12:53:00] : 6
+[2017-04-09 12:53:00] < (yeah) Hebat Shella!
+[2017-04-09 12:53:01] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 12:53:03] < Siap utk soal berikutnya...
+[2017-04-09 12:53:06] < ★ Dari total 13 siswa, 7 siswa senang memanjat tebing, 8 siswa senang arung jeram, dan 5 senang keduanya. Banyak siswa yang tidak senang memanjat tebing maupun arung jeram adalah ...
+[2017-04-09 12:54:41] : 7
+[2017-04-09 12:54:41] < Coba lagi
+[2017-04-09 12:55:09] : 3
+[2017-04-09 12:55:10] < Betul! (smile)
+[2017-04-09 12:55:12] < Siap utk soal berikutnya...
+[2017-04-09 12:55:15] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=c9a54} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:56:02] : 10,48
+[2017-04-09 12:56:02] < Bukan
+[2017-04-09 12:56:54] : 40,24
+[2017-04-09 12:56:54] < Bukan itu
+[2017-04-09 12:57:00] : jadi mana
+[2017-04-09 12:57:00] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 12:57:08] : nyerah
+[2017-04-09 12:57:08] < Jangan nyerah, coba dulu
+[2017-04-09 12:57:14] : nyerah
+[2017-04-09 12:57:14] < Jawabannya 50,24
+[2017-04-09 12:57:15] < Siap buat soal berikutnya...
+[2017-04-09 12:57:18] < ★ Suatu pekerjaan dapat diselesaikan oleh 2 orang pekerja dalam waktu 2 minggu. Jika pekerjaan itu harus selesai dalam waktu 1 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-09 12:58:03] : 2
+[2017-04-09 12:58:03] < (yeah) Betul Shella!, langsung terjawab
+[2017-04-09 12:58:05] < Soal berikutnya...
+[2017-04-09 12:58:08] < ★ Suatu barisan aritmatika diketahui suku ke-1 adalah 3 dan suku ke-3 adalah 9, maka suku ke-4 adalah ...
+[2017-04-09 12:58:21] : 12
+[2017-04-09 12:58:21] < (amazed) Hebat Shella!, langsung terjawab
+[2017-04-09 12:58:24] < Soal selanjutnya...
+[2017-04-09 12:58:26] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=21eee} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-09 12:58:39] : 172829
+[2017-04-09 12:58:39] < Jawabannya dalam bentuk desimal, contoh: 7,92
+[2017-04-09 12:58:39] < Coba lagi
+[2017-04-09 12:58:46] : 7.92
+[2017-04-09 12:58:46] < Bukan, coba lagi
+[2017-04-09 12:58:52] : nyerah
+[2017-04-09 12:58:52] < Dicoba cari jawabannya
+[2017-04-09 12:59:02] : Tidak tahu caranya
+[2017-04-09 12:59:02] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-09 12:59:38] : 37.68
+[2017-04-09 12:59:38] < Bukan, coba lagi
+[2017-04-09 12:59:47] : bagaimana caranya
+[2017-04-09 12:59:48] < Maaf yah, hanya boleh minta rumus sekali aja setiap 1 menit
+[2017-04-09 13:00:42] : 75.36
+[2017-04-09 13:00:43] < Masih belum betul
+[2017-04-09 13:00:50] : yaudah nyerah
+[2017-04-09 13:00:51] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-09 13:00:55] : nyerah
+[2017-04-09 13:00:56] < Nih, jawabannya 53,68
+[2017-04-09 13:00:57] < Siap lagi...
+[2017-04-09 13:01:00] < ★ 4 siswa senang makan nasi goreng dan juga makan bubur ayam, sedangkan 6 siswa tidak senang keduanya. Siswa yang hanya senang makan nasi goreng saja ada 3, dan siswa yang senang makan bubur ayam saja ada 3 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 13:01:26] : 16
+[2017-04-09 13:01:27] < (yes) Hebat Shella!, langsung terjawab
+[2017-04-09 13:01:29] < Siap lagi...
+[2017-04-09 13:01:32] < ★ 4 siswa senang menyanyi dan juga menari, sedangkan 7 siswa tidak senang keduanya. Siswa yang hanya senang menyanyi saja ada 3, dan siswa yang senang menari saja ada 2 orang. Ada berapa jumlah siswa keseluruhan?
+[2017-04-09 13:01:41] : 16
+[2017-04-09 13:01:41] < (clap) Ya! Betul Shella
+[2017-04-09 13:01:44] < Siap lagi...
+[2017-04-09 13:01:47] < ★ Umar membeli televisi seharga Rp 600 ribu dan ia ingin mendapat untung 20%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-09 13:02:20] : 720.000
+[2017-04-09 13:02:20] < (yes) Betul Shella!
+[2017-04-09 13:02:20] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-09 13:02:23] < Selanjutnya...
+[2017-04-09 13:02:26] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=3d68a} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-10 09:54:33] : 7,29
+[2017-04-10 09:54:34] < Coba lagi
+[2017-04-10 09:55:48] : 1,57
+[2017-04-10 09:55:49] < Bukan
+[2017-04-10 09:55:56] : nyerah
+[2017-04-10 09:55:56] < Nih, jawabannya 53,68
+[2017-04-10 09:55:57] < Siap buat soal berikutnya...
+[2017-04-10 09:56:01] < ★ Suku ke-2 dan suku ke-4 suatu barisan aritmatika berturut-turut adalah 6 dan 12. Suku ke-6 barisan tersebut adalah ...
+[2017-04-10 09:59:00] : 18
+[2017-04-10 09:59:01] < (yes) Hebat Shella!, langsung terjawab
+[2017-04-10 09:59:01] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-10 09:59:03] < Siap lagi...
+[2017-04-10 09:59:06] < ★ 9 siswa senang memanjat tebing, dan sebagian di antaranya juga senang arung jeram. Siswa yang hanya senang arung jeram saja ada 1, dan siswa yang tidak senang keduanya ada 4. Ada berapa jumlah siswa keseluruhan?
+[2017-04-10 09:59:20] : 14
+[2017-04-10 09:59:21] < (yeah) Betul Shella!
+[2017-04-10 09:59:23] < Selanjutnya...
+[2017-04-10 09:59:26] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=da7be} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-10 10:00:55] : 65.94
+[2017-04-10 10:00:55] < Bukan, coba lagi
+[2017-04-10 10:01:52] : 0,65
+[2017-04-10 10:01:52] < Masih belum betul
+[2017-04-10 10:02:00] : nyerah
+[2017-04-10 10:02:00] < Nih, jawabannya 37,68
+[2017-04-10 10:02:01] < Siap lagi...
+[2017-04-10 10:02:05] < ★ 5 siswa senang fisika, dan sebagian di antaranya juga senang matematika. Siswa yang hanya senang matematika saja ada 5, dan siswa yang tidak senang keduanya ada 7. Ada berapa jumlah siswa keseluruhan?
+[2017-04-10 10:02:28] : 17
+[2017-04-10 10:02:29] < (clap) Ya! Betul Shella, langsung terjawab
+[2017-04-10 10:02:30] < Selamat! berikutnya kalau dapat soal tentang Irisan Himpunan lagi siap-siap yang agak susah yah? :)
+[2017-04-10 10:02:32] < Soal berikutnya...
+[2017-04-10 10:02:36] < ★ Fatin membeli printer seharga Rp 700 ribu dan ia ingin mendapat untung 20%. Berapa harga penjualannya (dalam ribuan)?
+[2017-04-15 03:07:55] : Soal berikutnya
+[2017-04-15 03:07:56] < ★ Suatu barisan aritmatika diketahui suku ke-2 adalah 5 dan suku ke-5 adalah 14, maka suku ke-3 adalah ...
+[2017-04-15 03:09:02] : 8
+[2017-04-15 03:09:03] < (amazed) Betul Shella!
+[2017-04-15 03:09:03] < Selamat! berikutnya kalau dapat soal tentang Barisan Aritmatika lagi siap-siap yang agak susah yah? :)
+[2017-04-15 03:09:05] < Selanjutnya...
+[2017-04-15 03:09:08] < ★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 1 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan terlambat selama berapa minggu?
+[2017-04-15 03:09:27] : 1
+[2017-04-15 03:09:28] < (amazed) Betul Shella!
+[2017-04-15 03:09:29] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-15 03:09:31] < Soal berikutnya...
+[2017-04-15 03:09:34] < ★ Gradien persamaan garis yang melalui titik (-2, 1) dan (2, 0) adalah ...
+[2017-04-15 03:09:35] : Skor
+[2017-04-15 03:09:35] < Kamu udah menjawab 23 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-15 03:09:48] : rincian skor
+[2017-04-15 03:09:48] < Total menjawab 23 soal
+★27, ★★2, ★★★0
+Barisan Aritmatika = 7
+Irisan Himpunan = 7
+Persamaan Garis = 1
+Persen = 2
+Aljabar = 8
+Rasio = 4
+[2017-04-15 03:09:57] : hai sist
+[2017-04-15 03:09:58] < Hai juga
+[2017-04-15 03:10:05] : nama aku nadia
+[2017-04-15 03:10:06] < Ok Nadia
+[2017-04-15 03:10:26] : nadia mau minta soal boleh gak soal uas
+[2017-04-15 03:10:27] < ★ Suatu pekerjaan dapat diselesaikan oleh 1 orang pekerja dalam waktu 4 minggu. Jika pekerjaan itu harus selesai dalam waktu 2 minggu, maka banyaknya pekerja yang harus ditambah adalah...
+[2017-04-15 03:10:39] : 1
+[2017-04-15 03:10:40] < (amazed) Hebat Nadia!, langsung terjawab
+[2017-04-15 03:10:40] < Selamat! berikutnya kalau dapat soal tentang Rasio lagi siap-siap yang agak susah yah? :)
+[2017-04-15 03:10:40] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-15 03:10:43] < Selanjutnya...
+[2017-04-15 03:10:46] < ★★ Suatu pekerjaan dapat diselesaikan oleh 4 orang pekerja dalam waktu 7 minggu. Jika hanya tersedia 2 orang saja, maka pekerjaan itu akan membutuhkan waktu selama berapa minggu?

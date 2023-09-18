@@ -1,0 +1,166 @@
+[2017-03-31 08:56:08] ! new follower
+[2017-03-31 08:56:10] < Hai
+[2017-03-31 08:56:38] : Hai juga
+[2017-03-31 08:56:40] < Nama kamu siapa?
+[2017-03-31 08:56:50] : Eka
+[2017-03-31 08:56:50] < Ok Eka
+[2017-03-31 08:56:53] < Mau latihan soal matematika?
+[2017-03-31 08:57:06] : Mau
+[2017-03-31 08:57:06] < Ok, siap ya...
+[2017-03-31 08:57:08] < ★ Diketahui 5(x+6) = 3x. Nilai dari x adalah ...
+[2017-03-31 08:57:42] : 8
+[2017-03-31 08:57:42] < Bukan, coba lagi
+[2017-03-31 08:57:47] : -15
+[2017-03-31 08:57:47] < Betul!
+[2017-03-31 08:57:50] < ★ Suku ke-1 dan suku ke-4 suatu barisan aritmatika berturut-turut adalah 2 dan 11. Suku ke-3 barisan tersebut adalah ...
+[2017-03-31 08:58:58] : Yg agak susah dikit dong
+[2017-03-31 08:59:01] < ★★ Jika U2 + U7 + U12 = 96, maka suku ke-7 barisan aritmatika tersebut adalah ...
+[2017-03-31 08:59:34] : Susah
+[2017-03-31 08:59:35] < Kamu pasti bisa
+[2017-03-31 09:00:46] : Kamu ada soal apa aja
+[2017-03-31 09:00:47] < Ada topik tentang Barisan Aritmatika, Irisan Himpunan, Aljabar, Rasio, Persamaan Garis, Persen
+[2017-03-31 09:01:32] : Coba soal tentang persen
+[2017-03-31 09:01:33] < ★ Heri membeli tas seharga Rp 300 ribu dan ia ingin mendapat untung 10%. Berapa harga penjualannya (dalam ribuan)?
+[2017-03-31 09:07:17] : Kasih petunjuk dong
+[2017-03-31 09:07:17] < Rumusnya hargaBeli x untungPersen / 100 = hargaJual
+[2017-03-31 09:07:44] : 330
+[2017-03-31 09:07:45] < Hebat!
+[2017-03-31 09:07:48] < ★ Berapa harga jual (dalam ribuan) suatu barang yang dibeli dengan harga Rp 700 ribu jika ingin mendapat keuntungan sebesar 20% ?
+[2017-03-31 09:07:54] : Tolong
+[2017-03-31 09:07:55] < Yang bisa kamu katakan di sini misalnya
+"ada topik apa aja?",
+"minta soal",
+"soal aritmatika",
+"soal tentang aljabar yang susah",
+"kasih petunjuk",
+"usul topik perkalian",
+"saran soalnya ditambah"
+[2017-04-11 14:46:04] : Soal lingkaran
+[2017-04-11 14:46:05] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=74a2c} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 14:51:45] : Soal lingkaran
+[2017-04-11 14:51:46] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=977a2} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 14:51:53] : Soal lingkaran
+[2017-04-11 14:51:54] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=8fcfa} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 14:52:00] : Soal lingkaran
+[2017-04-11 14:52:00] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=8fcfa} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 14:52:09] : Soal lingkaran
+[2017-04-11 14:52:09] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=7329e} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 15:46:07] : Lu tau ga
+[2017-04-11 15:46:07] < Ayo coba lagi
+[2017-04-11 15:46:17] : Lu tau ga
+[2017-04-11 15:46:17] < Jangan putus asa
+[2017-04-11 15:46:24] : Kamu tau ga
+[2017-04-11 15:46:25] < Belum juga dicoba jawab :)
+[2017-04-11 15:46:28] : 6
+[2017-04-11 15:46:29] < Bukan
+[2017-04-11 15:46:33] : Lu tau ga
+[2017-04-11 15:46:33] < Jangan putus asa
+[2017-04-11 15:46:40] : 4
+[2017-04-11 15:46:40] < Masih belum betul
+[2017-04-11 15:46:46] : Lu tau ga
+[2017-04-11 15:46:46] < Jangan putus asa
+[2017-04-11 15:46:51] : 4
+[2017-04-11 15:46:51] < Bukan
+[2017-04-11 15:46:54] : 7
+[2017-04-11 15:46:54] < Masih belum betul
+[2017-04-11 15:46:56] : 5
+[2017-04-11 15:46:56] < Bukan, coba lagi
+[2017-04-11 15:46:57] < Kamu bisa minta "ganti soal" atau "nyerah" kalau yang ini susah
+[2017-04-11 15:46:58] : 7
+[2017-04-11 15:46:58] < Coba lagi
+[2017-04-11 15:47:00] < Kamu bisa minta "ganti soal" atau "nyerah" kalau yang ini susah
+[2017-04-11 15:47:03] : Lu tau ga
+[2017-04-11 15:47:04] < Jangan putus asa
+[2017-04-11 15:47:52] : Lu tau ga
+[2017-04-11 15:47:53] < Yang betul adalah 8
+[2017-04-11 15:47:54] < Siap lagi...
+[2017-04-11 15:47:57] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=7efdc4} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 15:54:54] : Lu tau ga
+[2017-04-11 15:54:59] < Coba kamu jawab dulu
+[2017-04-11 15:55:16] : Lu tau ga
+[2017-04-11 15:55:16] < Belum juga dicoba jawab :)
+[2017-04-11 15:55:41] : Lu tau ga
+[2017-04-11 15:56:05] : Lu tau ga
+[2017-04-11 15:56:48] : Lu tau ga
+[2017-04-11 15:56:49] < tau dong
+[2017-04-11 15:57:09] : Lu tau ga
+[2017-04-11 15:57:10] < tentu aja (smile)
+[2017-04-11 15:57:20] : Lu tau ga
+[2017-04-11 15:57:20] < Tentu aja (smile)
+[2017-04-11 15:57:23] : Brp
+[2017-04-11 15:57:24] < :)
+[2017-04-11 15:58:01] : Lu tau ga
+[2017-04-11 15:58:02] < Tentu aja (smile)
+[2017-04-11 15:58:04] : Brp
+[2017-04-11 15:58:05] < Belum juga dicoba jawab :)
+[2017-04-11 15:58:08] : 6
+[2017-04-11 15:58:08] < Masih belum betul
+[2017-04-11 15:58:11] : Brp
+[2017-04-11 15:58:12] < Maaf, ngga semua kata-kata bisa saya ngerti
+[2017-04-11 15:58:21] : Brp jwbnya
+[2017-04-11 15:58:21] < Maaf, pemahaman saya masih terbatas
+[2017-04-11 15:59:14] : Brp jwbnya
+[2017-04-11 15:59:15] < Yang betul adalah 2
+[2017-04-11 15:59:16] < Siap lagi...
+[2017-04-11 15:59:20] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=2e2cb4} Keliling daerah yang diwarnai adalah aπ. Berapakah a?
+[2017-04-11 15:59:34] : 20
+[2017-04-11 15:59:34] < (amazed) Betul Eka!, langsung terjawab
+[2017-04-11 15:59:35] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-11 15:59:37] < Soal berikutnya...
+[2017-04-11 15:59:41] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=7dde44} Berapakah keliling daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 15:59:44] : Skor
+[2017-04-11 15:59:44] < Kamu udah menjawab 1 soal
+Kamu juga bisa minta "rincian skor" kalau mau
+[2017-04-11 16:00:01] : 8
+[2017-04-11 16:00:02] < Jawabannya dalam bentuk desimal, contoh: 9,99
+[2017-04-11 16:00:02] < Coba lagi
+[2017-04-11 16:00:25] : 16.64
+[2017-04-11 16:00:25] < Masih belum betul
+[2017-04-11 16:00:43] : 16.56
+[2017-04-11 16:00:44] < Betul! (smile)
+[2017-04-11 16:00:46] < Siap utk soal berikutnya...
+[2017-04-11 16:00:49] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=758460} Keliling daerah yang diwarnai adalah aπ. Berapakah a?
+[2017-04-11 16:02:40] : Ajarin dongg
+[2017-04-11 16:02:41] < Rumus keliling lingkaran adalah dπ, yaitu diameter lingkaran dikali dengan π
+[2017-04-11 16:03:41] : Yg bikin oa ini siapa
+[2017-04-11 16:03:41] < Kalau ada masalah dgn chat bot ini atau mau tanya-tanya soal matematika, hubungi aja @enof pake LINE
+[2017-04-11 16:04:01] : Yg bikin siapa
+[2017-04-11 16:04:01] < Kalau ada masalah dgn chat bot ini atau mau tanya-tanya soal matematika, hubungi aja @enof pake LINE
+[2017-04-11 16:05:30] : 1-1 brpa
+[2017-04-11 16:05:30] < 0
+[2017-04-11 16:05:30] < Bukan, coba lagi
+[2017-04-11 16:11:13] : 1-1 brp
+[2017-04-11 16:11:14] < 0
+[2017-04-11 16:11:21] : Soalnya apa
+[2017-04-11 16:11:22] < ★ {https://tplen.com/line/ImageCircleGeometry.php?iid=758460} Keliling daerah yang diwarnai adalah aπ. Berapakah a?
+[2017-04-11 16:11:28] : 6
+[2017-04-11 16:11:28] < Bukan, coba lagi
+[2017-04-11 16:11:40] : 24/2
+[2017-04-11 16:11:41] < Jawabannya dalam bilangan bulat, contoh: 3
+[2017-04-11 16:11:41] < Coba lagi
+[2017-04-11 16:11:49] : 15-3
+[2017-04-11 16:11:50] < 12
+[2017-04-11 16:11:50] < Betul! (smile)
+[2017-04-11 16:11:51] < Selamat! berikutnya kalau dapat soal tentang Lingkaran lagi siap-siap yang agak susah yah? :)
+[2017-04-11 16:11:51] < Kamu bisa ketik "skor" untuk tau hasilmu sampai saat ini
+[2017-04-11 16:11:53] < Soal selanjutnya...
+[2017-04-11 16:11:56] < ★★ {https://tplen.com/line/ImageCircleGeometry.php?iid=19f046} Berapakah luas daerah yang diwarnai? (gunakan π = 3,14)
+[2017-04-11 23:10:06] : Soal fisika ada ga
+[2017-04-11 23:10:07] < ★ Suatu barisan aritmatika diketahui suku ke-2 adalah 4 dan suku ke-4 adalah 10, maka suku ke-5 adalah ...
+[2017-04-11 23:10:27] : Soal fisika ada ga
+[2017-04-11 23:10:27] < Sekarang hanya matematika aja
+[2017-04-12 02:53:30] : Soal fisika ada ga
+[2017-04-12 02:53:30] < saat ini hanya matematika aja
+[2017-04-12 02:54:19] : Fisika
+[2017-04-12 02:54:20] < Saat ini hanya matematika saja
+[2017-04-12 02:54:24] : Fisika
+[2017-04-12 02:54:24] < Untuk saat ini hanya ada soal matematik saja
+[2017-04-12 02:54:30] : Fisika
+[2017-04-12 02:54:30] < Saat ini hanya soal matematik saja
+[2017-04-13 08:06:47] : Soal bahasa inggris
+[2017-04-13 08:06:47] < Saat ini hanya soal matematika saja
+[2017-04-13 08:06:54] : Seni budaya
+[2017-04-13 08:06:55] < Saya ngga tau harus jawab apa
+[2017-04-15 02:56:20] : (-12):3+8x(-5)
+[2017-04-15 02:56:20] < -44
+[2017-04-15 02:56:20] < Masih belum betul
